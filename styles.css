@@ -1,0 +1,48 @@
+.reveal .title {
+    font-size: 4rem;
+    color: darkblue;
+  }
+  
+.reveal .subtitle {
+    font-size: 3rem;
+    color: maroon;
+  }
+  
+.reveal p {
+    font-size: 2.5rem;
+  }
+  
+.reveal {
+    background-color: #f2f2f2;
+    color: #000000;
+  }
+  
+.reveal a {
+    color: #0077cc;
+  }
+  
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    color: #2f6e9e;
+  }
+  
+.reveal ul, .reveal ol {
+    color: #000000;
+  }
+  
+.reveal .footnote {
+    font-size: smaller;
+    color: gray;
+  }
+  
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+  }
+  
+ .logo img {
+    width: 200px; 
+  }
+
+/* css styles */

@@ -1,0 +1,82 @@
+---
+title: "AQ 224 -- Plankton Systematics and Ecology"
+subtitle: "Course Overview & Modules"
+author: "Nyamisi Peter"
+format: html
+date: "2026-04-16"
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+code-fold: false
+code-line-numbers: true
+css: styles.css
+bibliography: plankton.bib
+csl: havard.csl
+---
+
+## Welcome to AQ 224
+
+This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities. 
+
+## Course Objectives
+
+To introduce students to the systematics of both phytoplankton and zooplankton; plankton sampling methods and determination of productivity; plankton ecology and productivity
+
+## Course Synopsis/Modules
+
+### Module 1: Course Introduction
+- Introduction to plankton and their importance in aquatic ecosystems.
+- Classification of Plankton
+- Division of the aquatic environment
+
+### Module 2: Plankton Ecology
+- Systematic and biology of phytoplankton and Zooplankton (holoplankton and meroplankton).
+- Adaptation to the environment: 
+
+    - Structural adaptations to floatation, aids of floatation
+    - Cyclomorphosis, colour and transparency, bioluminescence
+
+### Module 3: Plankton Productivity
+
+- Primary production in the aquatic environment.
+- Secondary production and the food webs.
+- Bacterial production and the concept of the microbial loop.
+- Factors controlling the distribution and productivity.
+- Nutrient regeneration and the role of zooplankton in nutrient cycling.
+- Trophodynamic relationships.
+- Feeding processes: rate of filtering, prey selection.
+- Zooplankton variations and the concept of indicator species.
+- Zoogeography of the holoplankton.
+- Vertical migration: seasonal, ontogenic and diel-vertical migration.
+- Spatial and seasonal changes of phytoplankton and zooplankton.
+
+### Module 4: Harmful Microalgae
+
+- Harmful algal blooms (HABs): causes, effects, and management strategies.
+- Types of HABs
+
+### Module 5: Sampling Methods and Laboratory Analysis
+
+- Methods of measurement of biomass and primary production, bacterial production, and nitrogen fixation in the water column.
+- Quantitative phytoplankton and zooplankton sampling; methods of collecting, fixing and preserving.
+- Laboratory analyses of planktons.
+
+
+## Key Textbooks
+
+-   Ecology of Phytoplankton [@reynolds06]
+-   Zooplankton methodology manual [@harris00]
+-   Zooplankton of the Atlantic and Gulf Coasts [@boxshall14]
+-   Plankton and Productivity in the Oceans [@raymont14]
+
+## Course assessment
+
+- Test1 = **10 marks**
+- Test2 = **15 marks**
+- Assignments = **5 marks**
+- Practicals = **10 marks**
+- University examination (UE) = 60 marks
+
+

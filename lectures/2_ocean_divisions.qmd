@@ -1,0 +1,217 @@
+---
+title: "AQ 224 -- Plankton Systematics and Ecology"
+subtitle: "Ocean Division and Zones"
+date: "2026-04-16"
+author: "Nyamisi Peter"
+format: 
+    revealjs:
+      standalone: true
+      embed-resources: true
+      reference-location: document
+      theme: serif
+      highlight-style: ayu-mirage
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+
+slide-number: true
+theme: "journal"
+code-fold: false
+scrollable: true
+code-line-numbers: true
+bibliography: ../plankton.bib
+csl: ../havard.csl
+css: ../styles.css
+---
+
+# [Ocean Division and Zones]{style="background: #433E49; color: #ABDFF1"}
+
+## [Overview of Ocean Division]{style="background: #433E49; color: #ABDFF1"}
+
+![Ocean Divisions](../graphics/images/ocean-divisions.png)
+
+
+## [Overview of Ocean Division]{style="background: #433E49; color: #ABDFF1"}
+
+::: {.columns}
+::: {.column width="60%"}
+- The ocean environment is divided based on:
+    - **Depth** (vertical zones)
+    - **Distance from shore** (horizontal zones)
+
+- These divisions help us understand the distribution of plankton and marine organisms
+- Each zone has unique characteristics affecting life forms
+:::
+
+::: {.column width="40%"}
+![Ocean Divisions](../graphics/images/ocean-divisions.png)
+:::
+:::
+
+## [Vertical Zones: Pelagic Division]{style="background: #433E49; color: #ABDFF1"}
+
+- **Pelagic zone:** The entire water column (open water)
+- Divided into distinct depth zones based on **light penetration** and **pressure**
+
+### Major Pelagic Zones:
+
+- **Epipelagic (Euphotic)** -- 0-200 m
+- **Mesopelagic (Twilight)** -- 200-1000 m
+- **Bathypelagic (Midnight)** -- 1000-6000 m
+- **Hadopelagic (Abyssal)** -- >6000 m
+
+## [Epipelagic Zone (Sunlight Zone)]{style="background: #433E49; color: #ABDFF1"}
+
+- **Depth:** 0-200 meters
+- **Characteristics:**
+    - Receives sunlight
+    - Warmest zone
+    - Supports photosynthesis
+    - Highest biodiversity
+    - Dissolved oxygen abundant
+
+- **Plankton:** Rich in phytoplankton and zooplankton
+- **Importance:** Primary production occurs here
+
+## [Mesopelagic Zone (Twilight Zone)]{style="background: #433E49; color: #ABDFF1"}
+
+- **Depth:** 200-1000 meters
+- **Characteristics:**
+    - Dim light (partial darkness)
+    - Twilight conditions (not enough for photosynthesis)
+    - Rapid temperature decrease
+    - Lower photosynthesis
+
+- **Plankton:** Specialized zooplankton adapted to low light
+- **Organisms:** Bioluminescent species common
+
+## [Bathypelagic Zone (Midnight Zone)]{style="background: #433E49; color: #ABDFF1"}
+
+- **Depth:** 1000-6000 meters
+- **Characteristics:**
+    - Complete darkness
+    - Cold temperatures (2-4°C)
+    - High pressure
+    - Low oxygen in some regions
+
+- **Plankton:** Sparse plankton communities
+- **Energy source:** Marine snow (falling organic matter)
+
+## [Hadopelagic Zone (Abyssal Zone)]{style="background: #433E49; color: #ABDFF1"}
+
+- **Depth:** >6000 meters
+- **Characteristics:**
+    - Extreme darkness
+    - Crushing pressure
+    - Near-freezing temperatures
+    - Minimal life
+
+- **Plankton:** Extremely specialized and rare
+- **Organisms:** Found near hydrothermal vents
+
+## [Horizontal Zones: Neritic vs. Oceanic]{style="background: #433E49; color: #ABDFF1"}
+
+### **Neritic Province:**
+
+- Shallow water above the continental shelf
+- Extends 200+ km from shore
+- High nutrient availability
+- High productivity
+- Supports rich plankton communities
+
+### **Oceanic Province:**
+
+- Deep water beyond the continental shelf
+- Low nutrient availability (except upwelling zones)
+- Lower productivity in many regions
+- Unique specialized plankton
+
+## [Benthic Division]{style="background: #433E49; color: #ABDFF1"}
+
+- **Benthic zone:** The seafloor and organisms living on/in it
+- Divided by depth:
+
+    - **Supralittoral** -- Above high tide
+    - **Littoral** -- Intertidal zone
+    - **Sublittoral** -- Continental shelf (< 200 m)
+    - **Abyssal** -- Deep ocean floor
+
+- Meroplankton larvae settle in benthic zones
+
+## [Key Factors Affecting Ocean Zones]{style="background: #433E49; color: #ABDFF1"}
+
+| Factor | Impact |
+|--------|--------|
+| **Light** | Enables photosynthesis; affects animal behavior |
+| **Temperature** | Controls metabolic rates and organism distribution |
+| **Pressure** | Affects gas solubility and organism physiology |
+| **Dissolved Oxygen** | Essential for respiration; varies by depth |
+| **Nutrients** | Crucial for primary production; limits growth |
+| **Salinity** | Affects osmotic balance in organisms |
+
+## [Plankton Distribution by Zone]{style="background: #433E49; color: #ABDFF1"}
+
+::: {.columns}
+::: {.column width="50%"}
+**Epipelagic:**
+
+- Rich plankton communities
+- Maximum phytoplankton
+- Diverse zooplankton
+- Larval forms
+
+**Mesopelagic:**
+
+- Deep-sea copepods
+- Larval fishes
+- Myctophids (lanternfish)
+
+:::
+
+::: {.column width="50%"}
+**Bathypelagic:**
+
+- Specialized zooplankton
+- Detritus feeders
+- Bioluminescent species
+
+**Hadopelagic:**
+
+- Hadal amphipods
+- Sparse copepods
+- Specialized bacteria
+
+:::
+:::
+
+## [Importance of Ocean Divisions]{style="background: #433E49; color: #ABDFF1"}
+
+- **Scientific Understanding:**
+
+    - Predicting organism distribution
+    - Understanding adaptation strategies
+    - Tracking nutrient cycling
+
+- **Conservation:**
+
+    - Managing marine resources
+    - Understanding climate impacts
+    - Protecting biodiversity
+
+- **Fisheries:**
+
+    - Locating commercial species
+    - Sustainable harvest practices
+
+## [Summary]{style="background: #433E49; color: #ABDFF1"}
+
+- Ocean divisions provide a framework for understanding marine ecosystems
+- **Vertical divisions** (epipelagic, mesopelagic, bathypelagic, hadopelagic) depend on depth and light
+- **Horizontal divisions** (neritic, oceanic) depend on distance from shore
+- Each zone has unique physical conditions
+- Plankton distributions reflect these environmental gradients
+
+
+## [References]{style="background: #1f2937; color: #ffffff"}

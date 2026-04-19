@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Plankton Systematics & Ecology Course"
+  navbar:
+    title: "AQ 224"
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Lectures"
+
+        menu:
+          - text: "Course introduction"
+            href: lectures/1_intro.qmd
+          - text: "Division of the Ocean"
+            href: lectures/2_ocean_divisions.qmd
+          - text: "Plankton Importances"
+            href: lectures/3_phyto_ecology.qmd
+
+
+      - text: "Practicals"
+        menu:
+          - text: "Phytoplankton Identification"
+          #   href: practical/length_weight_practical.qmd
+          # - text: "Length-Weight Relationships (Using R)"
+          #   href: practical/length_weight_isometric.qmd
+
+
+      - text: "Resources"
+        menu:
+          - text: "Data"
+            href: resources/data.qmd
+          - text: "Glossary"
+            href: resources/glossary.qmd
+    right:
+      - icon: github
+        href: https://github.com/nyamisi
+        aria-label: GitHub
+
+  sidebar:
+    - title: "Course Modules"
+      contents:
+        - index.qmd
+        - section: "Course synopsis"
+          contents: 
+            - lectures/synopsis.qmd
+        # - section: "Module 1: Introduction"
+        #   contents:
+        #     - lectures/lecture1.qmd
+        # - section: "Module 2: Data Collection"
+        #   contents:
+        #     - lectures/lecture1.qmd
+        #     - lectures/lecture2.qmd
+
+  page-footer:
+    left: "Plankton Systematics & Ecology Course | AQ 224"
+    right: "© 2025/2026 Nyamisi Peter"
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-fold: false
+    code-tools: false

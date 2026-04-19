@@ -1,0 +1,17 @@
+{
+  "about.qmd": {
+    "about.html": "8d29fc51"
+  },
+  "index.qmd": {
+    "index.html": "adb0d645"
+  },
+  "lectures/1_intro.qmd": {
+    "1_intro.html": "6c096422"
+  },
+  "lectures/2_ocean_divisions.qmd": {
+    "2_ocean_divisions.html": "47116ad6"
+  },
+  "lectures/3_phyto_importance.qmd": {
+    "3_phyto_importance.html": "f896e013"
+  }
+}
