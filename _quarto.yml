@@ -19,6 +19,8 @@ website:
             href: lectures/2_ocean_divisions.qmd
           - text: "Plankton Importances"
             href: lectures/3_phyto_ecology.qmd
+          - text: "Plankton Taxonomy(Cyanobacteria)"
+            href: lectures/4_phyto_taxonomy_cyanobacteria.qmd
 
 
       - text: "Practicals"

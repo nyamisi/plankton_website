@@ -1,339 +1,545 @@
 [
   {
-    "objectID": "lectures/3_phyto_importance.html#terminologies-used-in-plankton-ecology",
-    "href": "lectures/3_phyto_importance.html#terminologies-used-in-plankton-ecology",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Terminologies used in Plankton Ecology",
-    "text": "Terminologies used in Plankton Ecology\nPlankton systematics\n\nThe study of the classification and taxonomy of planktonic organisms.\nIt involves identifying and categorizing different species of plankton based on their morphological, physiological, ecological, and genetic characteristics of planktonic organisms.\nThis field helps us understand the diversity and evolutionary relationships among planktonic species, as well as their distribution patterns and ecological roles in aquatic ecosystems."
+    "section": "Terms in phytoplankton",
+    "text": "Terms in phytoplankton\nHormogonia – Motile trichomes of cells (used for dispersal) that are often gas-vacuolated and devoid of heterocysts, with a distinct cell shape and size compared to vegetative cells.\n\n\n\n\n\nOscillatoria species\n\n\n\n\n\n\nHormogonia of oscillatoria formed during vegetative reproduction"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#terminologies",
-    "href": "lectures/3_phyto_importance.html#terminologies",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Terminologies…",
-    "text": "Terminologies…\nPlankton ecology\n\nPlankton ecology is the study of planktonic organisms and their interactions with each other and their environment within aquatic ecosystems.\nIt includes the distribution, abundance, diversity, behavior, physiology, and ecological roles of plankton."
+    "section": "Terms in phytoplankton",
+    "text": "Terms in phytoplankton\n\n\nTrichome is a chain of connected cells in filamentous cyanobacteria, functioning as a single physiological unit.\n\nTrichomes are simply linear or coiled arrangements of cells within a shared sheath.\nIt includes the cell wall but not the sheath."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#terminologies-1",
-    "href": "lectures/3_phyto_importance.html#terminologies-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#features-of-trichomes",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#features-of-trichomes",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Terminologies…",
-    "text": "Terminologies…\nPlankton productivity\n\nPlankton productivity refers to the rate at which planktonic organisms produce organic matter through photosynthesis and other metabolic processes.\nIt is a critical component of aquatic ecosystems, as plankton are the primary producers that form the base of the food web and support the entire ecosystem.\nUnderstanding plankton productivity is essential for understanding the dynamics of aquatic ecosystems and the impacts of human activities on these ecosystems."
+    "section": "Features of Trichomes",
+    "text": "Features of Trichomes\n\n\n\nComposed of a cell.\nThis can be uniform (e.g., Oscillatoria) or differentiated into specialized cells:\n\nVegetative cells: Perform photosynthesis.\nHeterocysts: Fix nitrogen (thick-walled, pale).\nAkinetes: Dormant cell (spores) (survival under stress)."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#what-is-phytoplankton",
-    "href": "lectures/3_phyto_importance.html#what-is-phytoplankton",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "What is Phytoplankton?",
-    "text": "What is Phytoplankton?\n\nPhytoplankton is derived from the Greek words:\n\nPhyto – (plant)\nPlankton — (wanderer or drifter)\n\nPhytoplankton are microscopic aquatic plants which do not have ability to swim\nThey are free-floating aquatic organisms that depend entirely on water movement such as surface currents for their movement."
+    "section": "Terms in phytoplankton",
+    "text": "Terms in phytoplankton\n\n\nFilament refers to a multicellular, thread-like structure composed of a linear chain of cells (trichome) enclosed within a protective mucilaginous sheath.\n\nFilamentous cyanobacteria are among the most ecologically significant, as they often dominate blooms and contribute to nitrogen fixation."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phytoplankton-1",
-    "href": "lectures/3_phyto_importance.html#phytoplankton-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-3",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-3",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phytoplankton…",
-    "text": "Phytoplankton…\n\nThey thrive in euphotic zone; the upper water column of the world’s oceans, lakes, rivers, ponds.\nThe euphotic zone receives energy from the sun that allows phytoplankton to photosynthesize – a chemical reaction that converts light energy into chemical energy (Peter et al., 2018)."
+    "section": "Terms in phytoplankton",
+    "text": "Terms in phytoplankton\n\n\nHeterocyst is a specialized, nitrogen-fixing cell found in filamentous cyanobacteria (e.g., Anabaena, Nostoc).\n\nThese cells are critical for converting atmospheric nitrogen (\\(N_2\\)) into ammonia (\\(NH_3\\)), a process called nitrogen fixation, which is essential for nutrient cycling in aquatic and terrestrial ecosystems."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phytoplankton-2",
-    "href": "lectures/3_phyto_importance.html#phytoplankton-2",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#structural-and-functional-features-of-heterocysts",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#structural-and-functional-features-of-heterocysts",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phytoplankton…",
-    "text": "Phytoplankton…"
+    "section": "Structural and Functional Features of Heterocysts",
+    "text": "Structural and Functional Features of Heterocysts\n\nThickened cell wall: Contains glycolipids to block oxygen (\\(O_2\\)) which inhibits nitrogenase, the enzyme for \\(N_2\\) fixation).\nPale appearance: Lacks phycobiliproteins (no photosynthesis) but retains chlorophyll-a.\nTriggered by nitrogen limitation (e.g., low \\(NO_3^-\\) or \\(NH_4^+\\)).\nNo Photosystem II (PS-II): Prevents \\(O_2\\) production.\nUses Photosystem I (PS-I): Generates ATP for nitrogenase."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#what-is-phytoplankton-ecology",
-    "href": "lectures/3_phyto_importance.html#what-is-phytoplankton-ecology",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-importance-of-heterocysts",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-importance-of-heterocysts",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "What is Phytoplankton Ecology?",
-    "text": "What is Phytoplankton Ecology?\n\nDefinition: Study of phytoplankton organisms and their interactions with each other and their aquatic environment\nKey focus areas:\n\nDistribution and abundance patterns\nPhysiological responses to environmental factors\nPopulation dynamics and growth rates\nEcological roles in food webs and nutrient cycling\nCommunity structure and biodiversity"
+    "section": "Ecological importance of Heterocysts",
+    "text": "Ecological importance of Heterocysts\nNitrogen Supply:\n\nIt provides fixed nitrogen (\\(NH_3\\)) to cyanobacteria and surrounding organisms.\n\nBloom formation:\n\nIt enables cyanobacteria (e.g., Anabaena) to dominate in nitrogen-poor waters."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#photosynthesis-the-heart-of-phytoplankton-ecology",
-    "href": "lectures/3_phyto_importance.html#photosynthesis-the-heart-of-phytoplankton-ecology",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#why-are-heterocysts-oxygen-sensitive-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#why-are-heterocysts-oxygen-sensitive-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Photosynthesis: The Heart of Phytoplankton Ecology",
-    "text": "Photosynthesis: The Heart of Phytoplankton Ecology\n\n\n\nPhytoplankton contain Chlorophyll-a (Chl-a) – a green pigment responsible for photosynthesis\nChl-a captures light energy and converts it into chemical energy (glucose)\nThis is the foundation of all aquatic food webs\n\nThe Photosynthetic Equation:\n\\[6CO_2 + 6H_2O \\xrightarrow{\\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2\\]\n\nKey products:\n\nOrganic matter (glucose) - food for consumers\nOxygen (O₂) - byproduct for respiration\nAccounts for ~50% of Earth’s oxygen production"
+    "section": "Why are heterocysts oxygen-sensitive?",
+    "text": "Why are heterocysts oxygen-sensitive?\n\nNitrogenase, the enzyme that catalyzes nitrogen fixation (\\(N_2 \\rightarrow NH_3\\)), is irreversibly inactivated/damaged by \\(O_2\\).\nTherefore, heterocysts maintain an anaerobic environment by:\n\nBlocking \\(O_2\\) diffusion (thickened wall).\nRespiration: Uses \\(O_2\\) for ATP synthesis.\nNo PS-II: Prevents \\(O_2\\) generation."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#primary-productivity",
-    "href": "lectures/3_phyto_importance.html#primary-productivity",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-4",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#terms-in-phytoplankton-4",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Productivity",
-    "text": "Primary Productivity\n\nDefinition: Rate at which phytoplankton produce organic matter through photosynthesis\nTwo types:\n\nGross Primary Productivity (GPP): Total organic matter produced\nNet Primary Productivity (NPP): Organic matter remaining after phytoplankton respiration\n\nGlobal significance: Phytoplankton account for ~50% of total organic matter production on Earth"
+    "section": "Terms in phytoplankton",
+    "text": "Terms in phytoplankton\n\nAkinete: Is a thick-walled, dormant spore formed by some filamentous cyanobacteria under unfavorable conditions (e.g., nutrient limitation, cold, or desiccation).\nAkinetes allow survival in harsh environments and regenerate when conditions improve."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-controlling-phytoplankton-growth",
-    "href": "lectures/3_phyto_importance.html#factors-controlling-phytoplankton-growth",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#structure-of-akinetes",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#structure-of-akinetes",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors Controlling Phytoplankton Growth",
-    "text": "Factors Controlling Phytoplankton Growth\n1. Light (Photosynthetically Active Radiation - PAR)\n\nPAR is the portion of sunlight (400-700 nm) that phytoplankton can use for photosynthesis\nLight is required for photosynthesis\nIt penetrates only upper 200 meters (euphotic zone)\nIts intensity decreases with depth\nAffects vertical distribution of phytoplankton\nLimiting factor: In deep water and winter months"
+    "section": "Structure of Akinetes",
+    "text": "Structure of Akinetes\n\nEnlarged cells: Larger than vegetative cells, with thickened cell walls.\nStorage reserves: Accumulate glycogen, cyanophycin (nitrogen reserve), and lipids.\nPigments: Retain chlorophyll-a but reduce photosynthetic activity."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors",
-    "href": "lectures/3_phyto_importance.html#factors",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#formation-of-akinetes",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#formation-of-akinetes",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors…",
-    "text": "Factors…\n2. Nutrient Availability\n\n\nMacronutrients:\n\nNitrogen (N) - essential for proteins and nucleic acids\nPhosphorus (P) - crucial for ATP and DNA production\nSilica (Si) - needed by diatoms for cell walls\nCarbon (C) - primary building block of photosynthesis\n\n\nMicronutrients/Trace Elements:\n\nIron (Fe) - critical enzyme co-factor (often limiting)\nManganese (Mn) - photosynthesis component\nZinc (Zn) - enzyme co-factor (often limiting)\nCopper (Cu) - respiration and photosynthesis component\nNutrient limitation: Occurs when essential nutrients become depleted\nSome phytoplankton can fix nitrogen and can grow in areas where nitrate concentrations are low."
+    "section": "Formation of akinetes",
+    "text": "Formation of akinetes\n\nAkinetes are formed if the conditions are unfavorable when there is:\n\n\nNutrient depletion (especially phosphorus or nitrogen).\nTemperature shifts (cold or freezing).\nDesiccation (prolonged dryness).\nLight limitation."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-1",
-    "href": "lectures/3_phyto_importance.html#factors-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#germination-of-akinetes",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#germination-of-akinetes",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors…",
-    "text": "Factors…\n3. Temperature\n\nAffects metabolic rates and enzyme activity in phytoplankton\nOptimal range: 15-30°C for most species, in tropics, optimal temperature is between 25-30°C\nSeasonal effects: Growth varies with seasonal temperature changes\nGeographic pattern: Higher productivity in temperate zones seasonally, but lower in tropical areas"
+    "section": "Germination of akinetes",
+    "text": "Germination of akinetes\n\nWhen favorable conditions return:\n\n\nWall breaks down.\nCell divides to form a new filament."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-2",
-    "href": "lectures/3_phyto_importance.html#factors-2",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#vegetative-cells",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#vegetative-cells",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors…",
-    "text": "Factors…\n4. Salinity\n\nDetermines osmotic balance for phytoplankton cells\nInfluences nutrient availability and uptake\nAffects species composition (freshwater vs. marine species)"
+    "section": "Vegetative cells",
+    "text": "Vegetative cells\n\nVegetative cells are the primary photosynthetic cells in cyanobacteria, responsible for growth and energy production.\nThey contain chlorophyll-a and phycobiliproteins for photosynthesis and are typically thin-walled and actively dividing under favorable conditions."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-3",
-    "href": "lectures/3_phyto_importance.html#factors-3",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors…",
-    "text": "Factors…\n5. Water Turbulence and Mixing\n\nVertical mixing: Brings nutrient-rich deeper water to surface\nReduces light availability: Deeper mixing = less average light exposure\nPrevents sinking: Keeps phytoplankton in euphotic zone\nOptimal conditions: Moderate mixing"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nUnicellular – Individual cells exist independently, often spherical or rod-shaped. Example: Chroococcus."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-4",
-    "href": "lectures/3_phyto_importance.html#factors-4",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors…",
-    "text": "Factors…\n6. Grazing Pressure\n\nPredation by zooplankton: Controls phytoplankton biomass\nTop-down control: High grazing = lower phytoplankton abundance\nSpecies selectivity: Zooplankton prefer certain phytoplankton types"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nColonial – Groups of cells are held together by a mucilaginous sheath but remain loosely associated. Example: Microcystis."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#nutrient-limitation-and-the-redfield-ratio",
-    "href": "lectures/3_phyto_importance.html#nutrient-limitation-and-the-redfield-ratio",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Nutrient Limitation and the “Redfield Ratio”",
-    "text": "Nutrient Limitation and the “Redfield Ratio”\n\nRedfield Ratio: C:N:P = 106:16:1\nRepresents the average elemental composition of phytoplankton biomass\nUsed to predict which nutrient will limit growth\n\nApplication:\n\nIf actual N:P ratio &lt; 16:1 → Nitrogen limited\nIf actual N:P ratio &gt; 16:1 → Phosphorus limited\nHelps predict ecosystem productivity"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nPseudofilamentous – Cells form a chain-like arrangement but lack true cellular connections, appearing filamentous. Example: Merismopedia."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phytoplankton-growth-phases-overview",
-    "href": "lectures/3_phyto_importance.html#phytoplankton-growth-phases-overview",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-3",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-3",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phytoplankton Growth Phases: Overview",
-    "text": "Phytoplankton Growth Phases: Overview\n\nPhytoplankton populations follow a characteristic growth pattern with four distinct phases\nEach phase represents different population dynamics\nUnderstanding these phases is crucial for predicting bloom events and managing aquatic ecosystems"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nFilamentous – Cells form long, connected chains called trichomes, sharing a common sheath. Example: Oscillatoria."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phase-1-lag-phase-adaptation",
-    "href": "lectures/3_phyto_importance.html#phase-1-lag-phase-adaptation",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-4",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-4",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phase 1: Lag Phase (Adaptation)",
-    "text": "Phase 1: Lag Phase (Adaptation)\n\n\nCharacteristics:\n\nPhytoplankton acclimate to new environment\nLow growth rate\nEnzyme and nutrient uptake mechanisms are activated\nCells preparing for rapid growth\n\nDuration:\n\nVariable, typically days to weeks\nDepends on environmental conditions\n\n\nWhat is happening:\n\nCells synthesize enzymes\nPhotosynthetic machinery activated\nNutrient transport systems established\nBuilding internal reserves"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nFalse Branching – Filaments appear branched but lack continuous cytoplasmic connections. Example: Scytonema."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phase-2-exponential-log-growth-phase",
-    "href": "lectures/3_phyto_importance.html#phase-2-exponential-log-growth-phase",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-5",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#types-of-vegetative-cell-structures-5",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phase 2: Exponential (Log) Growth Phase",
-    "text": "Phase 2: Exponential (Log) Growth Phase\n\n\nCharacteristics:\n\nRapid population growth under optimal conditions\nResources are abundant\nBiomass doubles at regular intervals\nMaximum growth rate achieved\n\nDuration:\n\nWeeks to months\nContinues while resources available\n\n\nWhat is happening:\n\nCells dividing at maximum rate\nNutrients abundant\nLight optimal\nWaste products not yet limiting\nThis is when algal blooms occur"
+    "section": "Types of vegetative cell structures",
+    "text": "Types of vegetative cell structures\n\n\n\nTrue Branching – Filaments divide in different directions with continuous cytoplasmic connections. Example: Stigonema."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phase-3-stationary-phase",
-    "href": "lectures/3_phyto_importance.html#phase-3-stationary-phase",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#comparison-between-akinetes-heterocysts-vegetative-cells",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#comparison-between-akinetes-heterocysts-vegetative-cells",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phase 3: Stationary Phase",
-    "text": "Phase 3: Stationary Phase\n\n\nCharacteristics:\n\nGrowth rate equals death rate\nNutrient depletion begins\nWaste accumulation occurs\nBiomass plateaus at carrying capacity\n\nDuration:\n\nVariable, typically weeks\nReflects resource availability\n\n\nWhat is happening:\n\nNutrient availability declining\nCompetition for resources intensifying\nToxin accumulation possible\nPopulation stabilizes at maximum sustainable level"
+    "section": "Comparison between akinetes, heterocysts & vegetative cells",
+    "text": "Comparison between akinetes, heterocysts & vegetative cells\n\n\n\n\n\n\n\n\nComparison of Cyanobacterial Cell Types\n\n\nFunctional and structural differentiation in filamentous species\n\n\n\nAkinetes\nHeterocysts\nVegetative Cells\n\n\n\n\nFunctions\nDormant survival (spores)\nNitrogen fixation (N₂ → NH₃)\nPhotosynthesis & Growth\n\n\nCell wall\nThick, multilayered\nThick, glycolipid-rich\nThin\n\n\nPigments\nReduced chlorophyll\nNo phycobilins (pale)\nChlorophyll + phycobilins\n\n\nMetabolism\nDormant (low activity)\nPSI only (no O₂ production)\nPSII + PSI (O₂ production)"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phase-4-death-decline-phase",
-    "href": "lectures/3_phyto_importance.html#phase-4-death-decline-phase",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#classification-of-phytoplankton",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#classification-of-phytoplankton",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phase 4: Death (Decline) Phase",
-    "text": "Phase 4: Death (Decline) Phase\n\n\nCharacteristics:\n\nNutrients are exhausted\nToxic metabolites accumulate\nDeath rate exceeds birth rate\nPopulation crashes\n\nDuration:\n\nDays to weeks\nDepends on toxin levels\n\n\nWhat is happening:\n\nEssential nutrients depleted\nWaste products toxic to cells\nCell lysis and death accelerates\nBiomass rapidly decreases\nDead cells sink (detritus)"
+    "section": "Classification of phytoplankton",
+    "text": "Classification of phytoplankton\n\nPhytoplankton can be classified into three major groups which include the Cyanobacteria (Cyanophyta), Diatoms (Bacillariophyta), and Dinoflagellates (Dinophyta).\nSome other groups includes Coccolithophores (Haptophyta), Green Algae (Chlorophyta), Cryptophytes (Cryptophyta)."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phytoplankton-growth-curve",
-    "href": "lectures/3_phyto_importance.html#phytoplankton-growth-curve",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-blue-green-algae",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-blue-green-algae",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phytoplankton Growth Curve",
-    "text": "Phytoplankton Growth Curve"
+    "section": "Cyanobacteria (Blue-green Algae)",
+    "text": "Cyanobacteria (Blue-green Algae)\n\nCyanobacteria are group of autotrophic, Gram-negative bacteria that obtain biological energy via oxygenic photosynthesis.\nThe name cyanobacteria originates from the Greek word kyanós, referring to their characteristic bluish-green (cyan) color.\nThis color forms the basis of their informal name, “blue-green algae,” although as prokaryotes, they are not scientifically classified as true algae."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#key-takeaways-growth-phases",
-    "href": "lectures/3_phyto_importance.html#key-takeaways-growth-phases",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-blue-green-algae-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-blue-green-algae-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Key Takeaways: Growth Phases",
-    "text": "Key Takeaways: Growth Phases\n\n\n\n\n\n\n\n\n\nPhase\nGrowth Rate\nLimiting Factors\nPopulation Size\n\n\n\n\nLag\nLow\nAcclimation, enzyme synthesis\nSlowly increasing\n\n\nExponential\nMaximum\nNone (optimal conditions)\nRapidly doubling\n\n\nStationary\nZero\nNutrient depletion, waste\nConstant (carrying capacity)\n\n\nDeath\nNegative\nToxins, starvation\nRapidly declining"
+    "section": "Cyanobacteria (Blue-green algae)",
+    "text": "Cyanobacteria (Blue-green algae)\n\nThey utilize photosynthetic pigments—including chlorophyll-a, carotenoids, and phycobilins (phycocyanin and phycoerythrin)—to harvest light energy.\nUnlike most other bacteria, they possess an extensive system of internal membranes called thylakoids – flattened sacs, from which photosynthesis is performed.\nThey are the only prokaryotes capable of oxygenic photosynthesis, a process that significantly contributed to the oxygenation of Earth’s early atmosphere.\nMany species produce potent cyanotoxins (e.g., microcystins, anatoxins) that pose significant risks to water quality, livestock, and human health."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions",
-    "href": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-orders",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-orders",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors Triggering Phase Transitions",
-    "text": "Factors Triggering Phase Transitions\nLag → Exponential:\n\nTemperature stabilizes\nEnzyme systems fully activated\nInitial nutrient uptake"
+    "section": "Cyanobacteria Orders",
+    "text": "Cyanobacteria Orders\nThe Phylum Cyanobacteria is traditionally divided into several orders based on their morphological complexity:\n\nChroococcales: Unicellular or colonial forms; no filaments.\nOscillatoriales: Simple filamentous forms; no specialized cells (heterocysts/akinetes).\nNostocales: Filamentous forms with specialized cells (heterocysts and akinetes); false branching.\nStigonematales: Most complex; true branching and multiseriate filaments."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions-1",
-    "href": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-orders-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#cyanobacteria-orders-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors Triggering Phase Transitions",
-    "text": "Factors Triggering Phase Transitions\nExponential → Stationary:\n\nKey nutrients become limiting (N, P, Si, or Fe)\nWaste metabolites accumulate\nLight intensity decreases\nGrazing pressure increases"
+    "section": "Cyanobacteria Orders…",
+    "text": "Cyanobacteria Orders…\n\n\n\n\n\n\nEvolutionary Trend\n\n\nThe classification reflects an evolutionary progression from simple single cells to complex, multicellular-like structures with functional division of labor."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions-2",
-    "href": "lectures/3_phyto_importance.html#factors-triggering-phase-transitions-2",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-chroococcales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-chroococcales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Factors Triggering Phase Transitions",
-    "text": "Factors Triggering Phase Transitions\nStationary → Death:\n\nComplete nutrient depletion\nToxic compound buildup\npH changes\nOxygen depletion in enclosed systems"
+    "section": "Order Chroococcales",
+    "text": "Order Chroococcales\n\nThe Chroococcales is an order of cyanobacteria known for including significant bloom-forming species like Microcystis aeruginosa.\nThey are primarily characterized by unicellular or colonial (non-filamentous) growth forms.\nAs one of the most ancient lineages, they are globally distributed across freshwater, brackish, and marine environments."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#biogeographic-distribution-of-phytoplankton",
-    "href": "lectures/3_phyto_importance.html#biogeographic-distribution-of-phytoplankton",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Biogeographic Distribution of Phytoplankton",
-    "text": "Biogeographic Distribution of Phytoplankton\nSpatial Patterns:\n\nCoastal waters (Neritic): HIGH productivity\n\nNutrient input from rivers and upwelling\nBetter light penetration\n\nOpen ocean (Oceanic): VARIABLE productivity\n\nOften nutrient-poor (oligotrophic)\n“Oceanic deserts” in tropical regions\nHigh productivity in upwelling zones"
+    "section": "Characteristics of Chroococcales",
+    "text": "Characteristics of Chroococcales\n\n\nMorphology\n\nThey are unicellular (e.g., Synechococcus) or colonial (e.g., Microcystis).\nCells are typically spherical, oval, or rod-shaped.\nColony formations include:\n\nIrregular clusters (Microcystis).\nCubical packets (Merismopedia).\nEmbedded in a gelatinous matrix (Gloeocapsa)."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#phyto.-as-primary-producers",
-    "href": "lectures/3_phyto_importance.html#phyto.-as-primary-producers",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Phyto. as Primary Producers",
-    "text": "Phyto. as Primary Producers\n┌─────────────────────────────────────────────────┐\n│ PHYTOPLANKTON (Primary Producers)               │\n│ • Contain chlorophyll                           │\n│ • Fix CO₂ into organic matter                   │\n│ • Foundation of marine food webs                │\n└────────────────┬────────────────────────────────┘\n                 │ Consumed by\n        ┌────────┴────────┐\n    ┌───▼────────┐   ┌────▼─────────┐ \n    │Zooplankton │   │Filter feeders│\n    └───┬────────┘   └───┬──────────┘\n        └────────┬───────┘Consumed by\n       ┌─────────▼─────────────┐\n       │Fish & other consumers │\n       └───────────────────────┘"
+    "section": "Characteristics of Chroococcales…",
+    "text": "Characteristics of Chroococcales…\nCell Structure\n\nProkaryotic organization: Lack a membrane-bound nucleus and organelles.\nGram-negative cell wall: Composed of a peptidoglycan layer and an outer membrane.\nMucilaginous sheath: A protective polysaccharide layer that aids in buoyancy and protection against desiccation."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Ecological Roles of Phytoplankton",
-    "text": "Ecological Roles of Phytoplankton\n\nPrimary Production:\n\n\nPhytoplankton are primary producers, meaning they convert sunlight, carbon dioxide, and nutrients into organic matter through photosynthesis\nThey form the base of the marine food web, providing energy and nutrients to higher trophic levels.\nPhytoplankton are the foundation of all aquatic food web"
+    "section": "Characteristics of Chroococcales…",
+    "text": "Characteristics of Chroococcales…\nReproduction\n\nReproduction by binary fission (asexual reproduction).\nColony fragmentation: Large colonies break into smaller aggregates to establish new populations.\nLack specialized reproductive cells (no akinetes or heterocysts)."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#environmental-responses-of-phytoplankton",
-    "href": "lectures/3_phyto_importance.html#environmental-responses-of-phytoplankton",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-3",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-chroococcales-3",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Environmental Responses of Phytoplankton",
-    "text": "Environmental Responses of Phytoplankton\n\n\n\n\n\n\n\nEnvironmental Change\nPhytoplankton Response\n\n\n\n\nIncreased nutrients\nBiomass increase, potential bloom\n\n\nTemperature rise\nSpecies composition shift, range changes\n\n\nDecreased light\nReduced productivity, migration to shallower water\n\n\nOcean acidification\nReduced calcification, cell size changes\n\n\nIncreased UV-B\nCellular damage, reduced photosynthesis\n\n\nSalinity change\nSpecies turnover, osmotic stress"
+    "section": "Characteristics of Chroococcales…",
+    "text": "Characteristics of Chroococcales…\nPigments & photosynthesis\n\nThey utilize chlorophyll-a alongside accessory phycobiliproteins (phycocyanin and phycoerythrin) to capture a broad spectrum of light.\nThey perform oxygenic photosynthesis within thylakoid membranes.\nUnlike filamentous orders, they lack heterocysts; therefore, they cannot fix atmospheric nitrogen and rely on dissolved inorganic nitrogen (e.g., \\(NO_3^-\\), \\(NH_4^+\\)).\nMany species (e.g., Microcystis) possess gas vacuoles to regulate their position in the water column for optimal light harvesting."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#indicator-species-and-ecosystem-health",
-    "href": "lectures/3_phyto_importance.html#indicator-species-and-ecosystem-health",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-of-chroococcales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-of-chroococcales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Indicator Species and Ecosystem Health",
-    "text": "Indicator Species and Ecosystem Health\n\nPhytoplankton as bioindicators:\n\nChanges in species composition = ecosystem changes\nDiversity patterns reflect environmental stress\nSensitive to pollution and nutrient enrichment\n\nEutrophication indicator:\n\nHigh chlorophyll-a = nutrient pollution\nDominated by fast-growing species (e.g., cyanobacteria)\n\nClimate change indicator:\n\nShifting species ranges and phenology\nChanges in bloom timing and intensity"
+    "section": "Taxonomic classification of Chroococcales",
+    "text": "Taxonomic classification of Chroococcales"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of Phytoplankton",
-    "text": "Importance of Phytoplankton\n\nBiotechnological Applications:\n\n\nSome species of phytoplankton are used in biotechnological applications, such as producing biofuels, pharmaceuticals, and nutritional supplements.\nFor example, certain types of microalgae are cultivated for their high lipid content, which can be converted into biodiesel.\nMicroalgae with the highest lipid content, ranging from 10 to 67%, belong to Chlorella, Dunaliella, and Scenedesmus species\nA Spirulina species – a blue-green algae, holds immense potential in the field of biotechnology.\nIts ability to produce valuable secondary metabolites like nutraceuticals and pharmaceuticals makes it a promising source for drug development\nThey are effective in managing allergies, cancer, and other diseases"
+    "section": "Common Genera & Species",
+    "text": "Common Genera & Species"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-1",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-economic-importance-of-chroococcales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-economic-importance-of-chroococcales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n10. Aquaculture\n\nPhytoplankton are a key food item in both aquaculture and mariculture.\nBoth utilize phytoplankton as food for the animals being farmed.\nIn mariculture, the phytoplankton is naturally occurring and is introduced into enclosures with the normal circulation of seawater.\nIn aquaculture, phytoplankton must be introduced directly.\nThe plankton can either be collected from a body of water or cultured."
+    "section": "Ecological & economic importance of Chroococcales",
+    "text": "Ecological & economic importance of Chroococcales\nHarmful Algal Blooms (HABs):\n\nMicrocystis and Chroococcus can form dense surface scums that deplete oxygen and block light.\nMicrocystis produces microcystins, potent hepatotoxins (liver toxins) that threaten drinking water and aquatic life.\n\nPrimary Production:\n\nGenera like Synechococcus are major contributors to global carbon fixation, especially in oligotrophic (nutrient-poor) oceans.\n\nBioindicators:\n\nHigh abundance of Microcystis is often used as a bioindicator of eutrophication (excessive nutrient enrichment)."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-2",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-2",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-oscillatoriales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-oscillatoriales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n11. Economic Importance of Phytoplankton\n\nPhytoplanktons have several uses and their mass cultivation can also be a major source of income.\nThey are mostly used as food supplements and play a vital role in both animal and human nutrition.\nPhytoplanktons are also used in the manufacture of drugs.\nAlso, they have proven to be suitable for synthesizing vaccines."
+    "section": "Order Oscillatoriales",
+    "text": "Order Oscillatoriales\n\n\nThe Oscillatoriales is an order of filamentous cyanobacteria distinguished by their structural simplicity:\n\nUnbranched trichomes: Simple, linear chains of cells.\nNo specialized cells: They lack heterocysts and akinetes, relying on dissolved nitrogen.\nReproduction: Primarily through hormogonia (short motile segments) or filament fragmentation."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#section",
-    "href": "lectures/3_phyto_importance.html#section",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-oscillatoriales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-oscillatoriales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "Carbon flux in the ocean"
+    "section": "Characteristics of Oscillatoriales",
+    "text": "Characteristics of Oscillatoriales\n\n\nMorphology & structure\n\nUnbranched trichomes: Simple linear chains of cells.\nNo specialized cells: Lack heterocysts and akinetes.\nCell Shape: Discoid or cylindrical with distinct cross-walls.\nSheath: Usually thin or absent, allowing for movement.\n\nCellular Composition\n\nPigments: Chlorophyll-a, phycocyanin, and phycoerythrin.\nProkaryotic: No membrane-bound organelles.\n\n\nMotility & reproduction\n\nGliding movement: Active movement via mucilage secretion and contractile fibrils.\nFragmentation: Trichomes break into smaller pieces (hormogonia) to grow.\nHormogonia: Specialized short, motile segments used for dispersal.\n\nEcological niche\n\nOften found in eutrophic (nutrient-rich) waters.\nCan form dense benthic mats or surface blooms.\n\n\n\n\n\n\n\n\nKey identification\n\n\nThe absence of heterocysts and akinetes in a filamentous cyanobacterium is a primary diagnostic feature of the Order Oscillatoriales, distinguishing them from the more complex Nostocales."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-3",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-3",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n12. Negative importance of phytoplankton\n\nSome phytoplankton species can be the source of death or disease to other aquatic organisms.\nCertain species of phytoplankton produce powerful biotoxins – leading to the development of red tides, or harmful algal blooms (HABs).\nThese toxic blooms can kill marine life and people who eat contaminated seafood.\nPhytoplankton may cause mass mortality in other ways.\nIn the aftermath of a massive bloom, dead phytoplankton sink to the ocean or lake floor.\nThen, decomposition occurs aided by bacteria.\nThis process lead to depletion of oxygen in the water, causing to suffocation of animals.\nThis may result to a massive death of aquatic organisms."
+    "section": "Taxonomic classification",
+    "text": "Taxonomic classification"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-4",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-4",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nNitrogen fixation\n\n\nNitrogen fixation is the biological process by which certain microorganisms, primarily bacteria and cyanobacteria, convert atmospheric nitrogen (N2) into ammonia (NH3) or other nitrogen compounds that can be used by plants and other organisms.\nThey contribute significant amounts of fixed nitrogen to marine ecosystems.\nThis input of fixed nitrogen can alleviate nitrogen limitation in phytoplankton communities, promoting their growth and productivity.\nExample of nitrogen fixers are such as Trichodesmium and Richelia species"
+    "section": "Common genera & species",
+    "text": "Common genera & species"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-5",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-5",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-economic-importance",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#ecological-economic-importance",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nNutrient Cycling:\n\n\nPhytoplankton contribute to nutrient cycling in marine ecosystems by recycling nutrients such as nitrogen, phosphorus, and iron.\nThey play a vital role in maintaining nutrient balance and productivity in marine environments."
+    "section": "Ecological & Economic Importance",
+    "text": "Ecological & Economic Importance\nHarmful Algal Blooms (HABs):\n\nLyngbya produces lyngbyatoxin, a potent skin irritant causing “swimmers’ itch.”\nOscillatoria can dominate eutrophic waters, leading to oxygen depletion and foul odors.\n\nBiofilms & Mats:\n\nPhormidium forms dense benthic mats in freshwater, stabilizing sediments but potentially harboring toxins.\n\nCommercial Uses:\n\nArthrospira (Spirulina) is globally cultivated as a nutrient-rich “superfood” due to its high protein and vitamin content."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-6",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-6",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-nostocales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-nostocales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nIndicator of Ecosystem Health:\n\n\nChanges in phytoplankton populations can serve as indicators of environmental changes and ecosystem health.\nMonitoring phytoplankton abundance, species composition, and distribution can provide insights into water quality, nutrient levels, and ecosystem dynamics."
+    "section": "Order Nostocales",
+    "text": "Order Nostocales\n\nThe Nostocales are a morphologically diverse order of filamentous cyanobacteria characterized by the presence of specialized nitrogen-fixing cells (heterocysts) and often dormant spores (akinetes).\nThey play crucial ecological roles in nitrogen cycling and form symbiotic relationships with plants and fungi."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-7",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-7",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nBiotechnological Applications:\n\n\nSome species of phytoplankton are used in biotechnological applications, such as producing biofuels, pharmaceuticals, and nutritional supplements.\nFor example, certain types of microalgae are cultivated for their high lipid content, which can be converted into biodiesel.\nMicroalgae with the highest lipid content, ranging from 10 to 67%, belong to Chlorella, Dunaliella, and Scenedesmus species\nA Spirulina species – a blue-green algae, holds immense potential in the field of biotechnology.\nIts ability to produce valuable secondary metabolites like nutraceuticals and pharmaceuticals makes it a promising source for drug development\nThey are effective in managing allergies, cancer, and other diseases"
+    "section": "Characteristics of Nostocales",
+    "text": "Characteristics of Nostocales\nMorphology\n\nConsists of a filamentous structure composed of trichomes (cell chains) enclosed in a mucilaginous sheath.\nThey have a specialized cells composed of:\n\nHeterocysts: Thick-walled, pale cells for nitrogen fixation.\nAkinetes: Enlarged, spore-like cells for survival under harsh environment."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-8",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-8",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nClimate Regulation:\n\n\nPhytoplankton influence climate by reducing atmospheric CO2 levels during photosynthesis process"
-  },
-  {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-9",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-9",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n\nOxygen Production:\n\n\nPhytoplankton produce a significant portion of the Earth’s oxygen through photosynthesis, contributing more than 50% of the oxygen in the Earth’s atmosphere.\nThey play a crucial role in maintaining global oxygen levels."
-  },
-  {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-10",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-10",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n10. Aquaculture\n\nPhytoplankton are a key food item in both aquaculture and mariculture.\nBoth utilize phytoplankton as food for the animals being farmed.\nIn mariculture, the phytoplankton is naturally occurring and is introduced into enclosures with the normal circulation of seawater.\nIn aquaculture, phytoplankton must be obtained and introduced directly.\nThe plankton can either be collected from a body of water or cultured."
-  },
-  {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-11",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-11",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n11. Economic Importance of Phytoplankton\n\nPhytoplanktons have several uses and their mass cultivation can also be a major source of income.\nThey are mostly used as food supplements and play a vital role in both animal and human nutrition.\nPhytoplanktons are also used in the manufacture of drugs.\nAlso, they have proven to be suitable for synthesizing vaccines."
-  },
-  {
-    "objectID": "lectures/3_phyto_importance.html#section-1",
-    "href": "lectures/3_phyto_importance.html#section-1",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#section-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#section-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "",
-    "text": "Phytoplanktons and their uses\n\n\nPhytoplanktonApplicationChlorella vulgarisFood supplement, animal feedSpirulinaFood supplement and cosmeticsOdontella auritaCosmetics, pharmaceuticals and food for both adults and infantsPhaeodactylum tricornutumFuel production and nutritionPorphyridium cruentumCosmetics, pharmaceuticals and nutrition"
+    "text": "Common growth forms include:\n\nLinear filaments (Anabaena): Simple, straight chains of cells that often dominate open-water phytoplankton communities.\nCoiled or Globose filaments (Nostoc): Filaments that twist or aggregate into gelatinous colonies, providing protection against grazing."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#importance-of-phytoplankton-12",
-    "href": "lectures/3_phyto_importance.html#importance-of-phytoplankton-12",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of phytoplankton",
-    "text": "Importance of phytoplankton\n12. Negative importance of phytoplankton\n\nSome phytoplankton species can be the source of death or disease to other aquatic organisms.\nCertain species of phytoplankton produce powerful biotoxins – leading to the development of red tides, or harmful algal blooms (HABs).\nThese toxic blooms can kill marine life and people who eat contaminated seafood.\nPhytoplankton may cause mass mortality in other ways.\nIn the aftermath of a massive bloom, dead phytoplankton sink to the ocean or lake floor.\nThen, decomposition occurs aided by bacteria.\nThis process lead to depletion of oxygen in the water, causing to suffocation of animals.\nThis may result to a massive death of aquatic organisms."
+    "section": "Characteristics of Nostocales",
+    "text": "Characteristics of Nostocales\nCell Structure\n\nProkaryotic organization: Lack a membrane-bound nucleus and organelles.\nPhotosynthetic pigments:\n\nChlorophyll-a: Primary pigment for photosynthesis.\nPhycobiliproteins: Accessory pigments (phycocyanin, allophycocyanin) for light harvesting.\nCarotenoids: Provide photoprotection and light absorption.\n\nCell Wall: Gram-negative structure featuring a distinct peptidoglycan layer and an outer membrane."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#section-2",
-    "href": "lectures/3_phyto_importance.html#section-2",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "Dead fish washed to a beach at Padre Island, Texas, in October 2009, following a red tide (HABs)"
+    "section": "Characteristics of Nostocales",
+    "text": "Characteristics of Nostocales\n\n\nNitrogen Fixation\n\nHeterocysts provide the low-oxygen conditions required for the nitrogenase enzyme to function.\nHeterocyst positioning: – where these cells are located along the filament (trichome) can vary by species and environmental conditions and used to identify different genera:\n\nTerminal: Located at the ends of filaments (e.g., Cylindrospermum).\nIntercalary: Located between vegetative cells (e.g., Anabaena).\nSuppression: Formation is often inhibited in nitrogen-rich environments."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#references",
-    "href": "lectures/3_phyto_importance.html#references",
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-3",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-nostocales-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Characteristics of Nostocales",
+    "text": "Characteristics of Nostocales\nReproduction & dispersal\n\nBinary fission: Standard cell division for filament elongation.\nFragmentation: Mechanical breaking of filaments into smaller colonies.\nHormogonia: Specialized, short, motile segments that detach for dispersal.\nAkinetes: Thick-walled resting spores that ensure survival during environmental stress."
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-of-nostocales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-of-nostocales",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Taxonomic classification of Nostocales",
+    "text": "Taxonomic classification of Nostocales"
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#common-genera-species-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Common genera & species",
+    "text": "Common genera & species"
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-stigonematales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#order-stigonematales",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Order Stigonematales",
+    "text": "Order Stigonematales\n\nThe Stigonematales represent the most morphologically complex cyanobacteria, characterized by true branching filaments and multiseriate trichomes (filaments with cells arranged in multiple rows).\nThis order contains species with the highest degree of cellular differentiation among cyanobacteria."
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Characteristics of Stigonematales",
+    "text": "Characteristics of Stigonematales\n\n\nMorphological complexity\n\nTrue branching: Both T-type (transverse cell division) and Y-type (longitudinal division) branching\nMultiseriate trichomes: Filaments composed of multiple cell rows (unlike other cyanobacteria)\nThick, laminated sheaths: Often pigmented (yellow, brown, or red)\nCell differentiation composed of:\n\nHeterocysts (nitrogen-fixing cells)\nAkinetes (resting spores)\nVegetative cells of varying shapes/sizes"
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Characteristics of Stigonematales",
+    "text": "Characteristics of Stigonematales\nCellular structure\n\nProkaryotic organization but with complex thylakoid arrangements\nPigments composed of:\n\nChlorophyll-a\nPhycobiliproteins (phycocyanin dominant)\nUnique carotenoids (e.g., nostoxanthin)\n\nCell walls: Thickened with additional structural layers"
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales-2",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#characteristics-of-stigonematales-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Characteristics of Stigonematales",
+    "text": "Characteristics of Stigonematales\nGrowth forms & habitat\n\nMat-forming species\nSymbiotic species (with bryophytes)\nCommonly found in moist soils, rocks, and thermal springs."
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#reproduction-in-stigonematales",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#reproduction-in-stigonematales",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Reproduction in Stigonematales",
+    "text": "Reproduction in Stigonematales\n\nHormogonia: Short, motile segments of the trichome that detach for dispersal and colonization.\nAkinetes: Thick-walled resting spores that allow survival during periods of desiccation or nutrient stress.\nFragmentation: Mechanical breaking of the complex branched filaments into smaller viable units.\nBinary Fission: Occurs in multiple planes, leading to the characteristic true branching and multiseriate (multiple rows) structure."
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-1",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#taxonomic-classification-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Taxonomic classification",
+    "text": "Taxonomic classification"
+  },
+  {
+    "objectID": "lectures/4_phyto_taxonomy_cyanobacteria.html#references",
+    "href": "lectures/4_phyto_taxonomy_cyanobacteria.html#references",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "References",
-    "text": "References\n\n\n\n\nPeter, N., Semba, M., Lugomela, C., Kyewalyanga, M.S., 2018. The influence of physical-chemical variables on the spatial and seasonal variation of chlorophyll-a in coastal waters of unguja, zanzibar, tanzania. Western Indian Ocean Journal of Marine Science 17, 25–34."
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#overview-of-ocean-division",
+    "href": "lectures/2_ocean_divisions.html#overview-of-ocean-division",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Overview of Ocean Division",
+    "text": "Overview of Ocean Division\n\nOcean Divisions"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#overview-of-ocean-division-1",
+    "href": "lectures/2_ocean_divisions.html#overview-of-ocean-division-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Overview of Ocean Division",
+    "text": "Overview of Ocean Division\n\n\n\nThe ocean environment is divided based on:\n\nDepth (vertical zones)\nDistance from shore (horizontal zones)\n\nThese divisions help us understand the distribution of plankton and marine organisms\nEach zone has unique characteristics affecting life forms\n\n\n\n\n\nOcean Divisions"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#vertical-zones-pelagic-division",
+    "href": "lectures/2_ocean_divisions.html#vertical-zones-pelagic-division",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Vertical Zones: Pelagic Division",
+    "text": "Vertical Zones: Pelagic Division\n\nPelagic zone: The entire water column (open water)\nDivided into distinct depth zones based on light penetration and pressure\n\nMajor Pelagic Zones:\n\nEpipelagic (Euphotic) – 0-200 m\nMesopelagic (Twilight) – 200-1000 m\nBathypelagic (Midnight) – 1000-6000 m\nHadopelagic (Abyssal) – &gt;6000 m"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#epipelagic-zone-sunlight-zone",
+    "href": "lectures/2_ocean_divisions.html#epipelagic-zone-sunlight-zone",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Epipelagic Zone (Sunlight Zone)",
+    "text": "Epipelagic Zone (Sunlight Zone)\n\nDepth: 0-200 meters\nCharacteristics:\n\nReceives sunlight\nWarmest zone\nSupports photosynthesis\nHighest biodiversity\nDissolved oxygen abundant\n\nPlankton: Rich in phytoplankton and zooplankton\nImportance: Primary production occurs here"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#mesopelagic-zone-twilight-zone",
+    "href": "lectures/2_ocean_divisions.html#mesopelagic-zone-twilight-zone",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Mesopelagic Zone (Twilight Zone)",
+    "text": "Mesopelagic Zone (Twilight Zone)\n\nDepth: 200-1000 meters\nCharacteristics:\n\nDim light (partial darkness)\nTwilight conditions (not enough for photosynthesis)\nRapid temperature decrease\nLower photosynthesis\n\nPlankton: Specialized zooplankton adapted to low light\nOrganisms: Bioluminescent species common"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#bathypelagic-zone-midnight-zone",
+    "href": "lectures/2_ocean_divisions.html#bathypelagic-zone-midnight-zone",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Bathypelagic Zone (Midnight Zone)",
+    "text": "Bathypelagic Zone (Midnight Zone)\n\nDepth: 1000-6000 meters\nCharacteristics:\n\nComplete darkness\nCold temperatures (2-4°C)\nHigh pressure\nLow oxygen in some regions\n\nPlankton: Sparse plankton communities\nEnergy source: Marine snow (falling organic matter)"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#hadopelagic-zone-abyssal-zone",
+    "href": "lectures/2_ocean_divisions.html#hadopelagic-zone-abyssal-zone",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Hadopelagic Zone (Abyssal Zone)",
+    "text": "Hadopelagic Zone (Abyssal Zone)\n\nDepth: &gt;6000 meters\nCharacteristics:\n\nExtreme darkness\nCrushing pressure\nNear-freezing temperatures\nMinimal life\n\nPlankton: Extremely specialized and rare\nOrganisms: Found near hydrothermal vents"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#horizontal-zones-neritic-vs.-oceanic",
+    "href": "lectures/2_ocean_divisions.html#horizontal-zones-neritic-vs.-oceanic",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Horizontal Zones: Neritic vs. Oceanic",
+    "text": "Horizontal Zones: Neritic vs. Oceanic\nNeritic Province:\n\nShallow water above the continental shelf\nExtends 200+ km from shore\nHigh nutrient availability\nHigh productivity\nSupports rich plankton communities\n\nOceanic Province:\n\nDeep water beyond the continental shelf\nLow nutrient availability (except upwelling zones)\nLower productivity in many regions\nUnique specialized plankton"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#benthic-division",
+    "href": "lectures/2_ocean_divisions.html#benthic-division",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Benthic Division",
+    "text": "Benthic Division\n\nBenthic zone: The seafloor and organisms living on/in it\nDivided by depth:\n\nSupralittoral – Above high tide\nLittoral – Intertidal zone\nSublittoral – Continental shelf (&lt; 200 m)\nAbyssal – Deep ocean floor\n\nMeroplankton larvae settle in benthic zones"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#key-factors-affecting-ocean-zones",
+    "href": "lectures/2_ocean_divisions.html#key-factors-affecting-ocean-zones",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Key Factors Affecting Ocean Zones",
+    "text": "Key Factors Affecting Ocean Zones\n\n\n\nFactor\nImpact\n\n\n\n\nLight\nEnables photosynthesis; affects animal behavior\n\n\nTemperature\nControls metabolic rates and organism distribution\n\n\nPressure\nAffects gas solubility and organism physiology\n\n\nDissolved Oxygen\nEssential for respiration; varies by depth\n\n\nNutrients\nCrucial for primary production; limits growth\n\n\nSalinity\nAffects osmotic balance in organisms"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#plankton-distribution-by-zone",
+    "href": "lectures/2_ocean_divisions.html#plankton-distribution-by-zone",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Plankton Distribution by Zone",
+    "text": "Plankton Distribution by Zone\n\n\nEpipelagic:\n\nRich plankton communities\nMaximum phytoplankton\nDiverse zooplankton\nLarval forms\n\nMesopelagic:\n\nDeep-sea copepods\nLarval fishes\nMyctophids (lanternfish)\n\n\nBathypelagic:\n\nSpecialized zooplankton\nDetritus feeders\nBioluminescent species\n\nHadopelagic:\n\nHadal amphipods\nSparse copepods\nSpecialized bacteria"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#importance-of-ocean-divisions",
+    "href": "lectures/2_ocean_divisions.html#importance-of-ocean-divisions",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Importance of Ocean Divisions",
+    "text": "Importance of Ocean Divisions\n\nScientific Understanding:\n\nPredicting organism distribution\nUnderstanding adaptation strategies\nTracking nutrient cycling\n\nConservation:\n\nManaging marine resources\nUnderstanding climate impacts\nProtecting biodiversity\n\nFisheries:\n\nLocating commercial species\nSustainable harvest practices"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#summary",
+    "href": "lectures/2_ocean_divisions.html#summary",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Summary",
+    "text": "Summary\n\nOcean divisions provide a framework for understanding marine ecosystems\nVertical divisions (epipelagic, mesopelagic, bathypelagic, hadopelagic) depend on depth and light\nHorizontal divisions (neritic, oceanic) depend on distance from shore\nEach zone has unique physical conditions\nPlankton distributions reflect these environmental gradients"
+  },
+  {
+    "objectID": "lectures/2_ocean_divisions.html#references",
+    "href": "lectures/2_ocean_divisions.html#references",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome-to-aq-224",
+    "href": "index.html#welcome-to-aq-224",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nTo introduce students to the systematics of both phytoplankton and zooplankton; plankton sampling methods and determination of productivity; plankton ecology and productivity",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-synopsismodules",
+    "href": "index.html#course-synopsismodules",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course Synopsis/Modules",
+    "text": "Course Synopsis/Modules\n\nModule 1: Course Introduction\n\nIntroduction to plankton and their importance in aquatic ecosystems.\nClassification of Plankton\nDivision of the aquatic environment\n\n\n\nModule 2: Plankton Ecology\n\nSystematic and biology of phytoplankton and Zooplankton (holoplankton and meroplankton).\nAdaptation to the environment:\n\nStructural adaptations to floatation, aids of floatation\nCyclomorphosis, colour and transparency, bioluminescence\n\n\n\n\nModule 3: Plankton Productivity\n\nPrimary production in the aquatic environment.\nSecondary production and the food webs.\nBacterial production and the concept of the microbial loop.\nFactors controlling the distribution and productivity.\nNutrient regeneration and the role of zooplankton in nutrient cycling.\nTrophodynamic relationships.\nFeeding processes: rate of filtering, prey selection.\nZooplankton variations and the concept of indicator species.\nZoogeography of the holoplankton.\nVertical migration: seasonal, ontogenic and diel-vertical migration.\nSpatial and seasonal changes of phytoplankton and zooplankton.\n\n\n\nModule 4: Harmful Microalgae\n\nHarmful algal blooms (HABs): causes, effects, and management strategies.\nTypes of HABs\n\n\n\nModule 5: Sampling Methods and Laboratory Analysis\n\nMethods of measurement of biomass and primary production, bacterial production, and nitrogen fixation in the water column.\nQuantitative phytoplankton and zooplankton sampling; methods of collecting, fixing and preserving.\nLaboratory analyses of planktons.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#key-textbooks",
+    "href": "index.html#key-textbooks",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Key Textbooks",
+    "text": "Key Textbooks\n\nEcology of Phytoplankton (Reynolds, 2006)\nZooplankton methodology manual (Harris et al., 2000)\nZooplankton of the Atlantic and Gulf Coasts (Boxshall, 2014)\nPlankton and Productivity in the Oceans (Raymont, 2014)",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-assessment",
+    "href": "index.html#course-assessment",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course assessment",
+    "text": "Course assessment\n\nTest1 = 10 marks\nTest2 = 15 marks\nAssignments = 5 marks\nPracticals = 10 marks\nUniversity examination (UE) = 60 marks",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "lectures/1_intro.html#plankton",
@@ -441,244 +647,374 @@
     "text": "References\n\n\n\n\nErshova, E., Descoteaux, R., Wangensteen, O., Iken, K., Hopcroft, R., Smoot, C., Grebmeier, J.M., Bluhm, B.A., 2019. Diversity and distribution of meroplanktonic larvae in the pacific arctic and connectivity with adult benthic invertebrate communities. Frontiers in Marine Science 6, 490.\n\n\nStübner, E., Søreide, J., Reigstad, M., Marquardt, M., Blachowiak-Samolyk, K., 2016. Year-round meroplankton dynamics in high-arctic svalbard. Journal of Plankton Research 38, 522–536."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "lectures/3_phyto_ecology.html#terminologies-used-in-plankton-ecology",
+    "href": "lectures/3_phyto_ecology.html#terminologies-used-in-plankton-ecology",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "Terminologies used in Plankton Ecology",
+    "text": "Terminologies used in Plankton Ecology\nPlankton systematics\n\nThe study of the classification and taxonomy of planktonic organisms.\nIt involves identifying and categorizing different species of plankton based on their morphological, physiological, ecological, and genetic characteristics of planktonic organisms.\nThis field helps us understand the diversity and evolutionary relationships among planktonic species, as well as their distribution patterns and ecological roles in aquatic ecosystems."
   },
   {
-    "objectID": "index.html#welcome-to-aq-224",
-    "href": "index.html#welcome-to-aq-224",
+    "objectID": "lectures/3_phyto_ecology.html#terminologies",
+    "href": "lectures/3_phyto_ecology.html#terminologies",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "Terminologies…",
+    "text": "Terminologies…\nPlankton ecology\n\nPlankton ecology is the study of planktonic organisms and their interactions with each other and their environment within aquatic ecosystems.\nIt includes the distribution, abundance, diversity, behavior, physiology, and ecological roles of plankton."
   },
   {
-    "objectID": "index.html#course-objectives",
-    "href": "index.html#course-objectives",
+    "objectID": "lectures/3_phyto_ecology.html#terminologies-1",
+    "href": "lectures/3_phyto_ecology.html#terminologies-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course Objectives",
-    "text": "Course Objectives\nTo introduce students to the systematics of both phytoplankton and zooplankton; plankton sampling methods and determination of productivity; plankton ecology and productivity",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "Terminologies…",
+    "text": "Terminologies…\nPlankton productivity\n\nPlankton productivity refers to the rate at which planktonic organisms produce organic matter through photosynthesis and other metabolic processes.\nIt is a critical component of aquatic ecosystems, as plankton are the primary producers that form the base of the food web and support the entire ecosystem.\nUnderstanding plankton productivity is essential for understanding the dynamics of aquatic ecosystems and the impacts of human activities on these ecosystems."
   },
   {
-    "objectID": "index.html#course-synopsismodules",
-    "href": "index.html#course-synopsismodules",
+    "objectID": "lectures/3_phyto_ecology.html#what-is-phytoplankton",
+    "href": "lectures/3_phyto_ecology.html#what-is-phytoplankton",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course Synopsis/Modules",
-    "text": "Course Synopsis/Modules\n\nModule 1: Course Introduction\n\nIntroduction to plankton and their importance in aquatic ecosystems.\nClassification of Plankton\nDivision of the aquatic environment\n\n\n\nModule 2: Plankton Ecology\n\nSystematic and biology of phytoplankton and Zooplankton (holoplankton and meroplankton).\nAdaptation to the environment:\n\nStructural adaptations to floatation, aids of floatation\nCyclomorphosis, colour and transparency, bioluminescence\n\n\n\n\nModule 3: Plankton Productivity\n\nPrimary production in the aquatic environment.\nSecondary production and the food webs.\nBacterial production and the concept of the microbial loop.\nFactors controlling the distribution and productivity.\nNutrient regeneration and the role of zooplankton in nutrient cycling.\nTrophodynamic relationships.\nFeeding processes: rate of filtering, prey selection.\nZooplankton variations and the concept of indicator species.\nZoogeography of the holoplankton.\nVertical migration: seasonal, ontogenic and diel-vertical migration.\nSpatial and seasonal changes of phytoplankton and zooplankton.\n\n\n\nModule 4: Harmful Microalgae\n\nHarmful algal blooms (HABs): causes, effects, and management strategies.\nTypes of HABs\n\n\n\nModule 5: Sampling Methods and Laboratory Analysis\n\nMethods of measurement of biomass and primary production, bacterial production, and nitrogen fixation in the water column.\nQuantitative phytoplankton and zooplankton sampling; methods of collecting, fixing and preserving.\nLaboratory analyses of planktons.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "What is Phytoplankton?",
+    "text": "What is Phytoplankton?\n\nPhytoplankton is derived from the Greek words:\n\nPhyto – (plant)\nPlankton — (wanderer or drifter)\n\nPhytoplankton are microscopic aquatic plants which do not have ability to swim\nThey are free-floating aquatic organisms that depend entirely on water movement such as surface currents for their movement."
   },
   {
-    "objectID": "index.html#key-textbooks",
-    "href": "index.html#key-textbooks",
+    "objectID": "lectures/3_phyto_ecology.html#phytoplankton-1",
+    "href": "lectures/3_phyto_ecology.html#phytoplankton-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Key Textbooks",
-    "text": "Key Textbooks\n\nEcology of Phytoplankton (Reynolds, 2006)\nZooplankton methodology manual (Harris et al., 2000)\nZooplankton of the Atlantic and Gulf Coasts (Boxshall, 2014)\nPlankton and Productivity in the Oceans (Raymont, 2014)",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "Phytoplankton…",
+    "text": "Phytoplankton…\n\nThey thrive in euphotic zone; the upper water column of the world’s oceans, lakes, rivers, ponds.\nThe euphotic zone receives energy from the sun that allows phytoplankton to photosynthesize – a chemical reaction that converts light energy into chemical energy (Peter et al., 2018)."
   },
   {
-    "objectID": "index.html#course-assessment",
-    "href": "index.html#course-assessment",
+    "objectID": "lectures/3_phyto_ecology.html#phytoplankton-2",
+    "href": "lectures/3_phyto_ecology.html#phytoplankton-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course assessment",
-    "text": "Course assessment\n\nTest1 = 10 marks\nTest2 = 15 marks\nAssignments = 5 marks\nPracticals = 10 marks\nUniversity examination (UE) = 60 marks",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
+    "section": "Phytoplankton…",
+    "text": "Phytoplankton…"
   },
   {
-    "objectID": "lectures/2_ocean_divisions.html#overview-of-ocean-division",
-    "href": "lectures/2_ocean_divisions.html#overview-of-ocean-division",
+    "objectID": "lectures/3_phyto_ecology.html#what-is-phytoplankton-ecology",
+    "href": "lectures/3_phyto_ecology.html#what-is-phytoplankton-ecology",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Overview of Ocean Division",
-    "text": "Overview of Ocean Division\n\nOcean Divisions"
+    "section": "What is Phytoplankton Ecology?",
+    "text": "What is Phytoplankton Ecology?\n\nDefinition: Study of phytoplankton organisms and their interactions with each other and their aquatic environment\nKey focus areas:\n\nDistribution and abundance patterns\nPhysiological responses to environmental factors\nPopulation dynamics and growth rates\nEcological roles in food webs and nutrient cycling\nCommunity structure and biodiversity"
   },
   {
-    "objectID": "lectures/2_ocean_divisions.html#overview-of-ocean-division-1",
-    "href": "lectures/2_ocean_divisions.html#overview-of-ocean-division-1",
+    "objectID": "lectures/3_phyto_ecology.html#photosynthesis-the-heart-of-phytoplankton-ecology",
+    "href": "lectures/3_phyto_ecology.html#photosynthesis-the-heart-of-phytoplankton-ecology",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Overview of Ocean Division",
-    "text": "Overview of Ocean Division\n\n\n\nThe ocean environment is divided based on:\n\nDepth (vertical zones)\nDistance from shore (horizontal zones)\n\nThese divisions help us understand the distribution of plankton and marine organisms\nEach zone has unique characteristics affecting life forms\n\n\n\n\n\nOcean Divisions"
+    "section": "Photosynthesis: The Heart of Phytoplankton Ecology",
+    "text": "Photosynthesis: The Heart of Phytoplankton Ecology\n\n\n\nPhytoplankton contain Chlorophyll-a (Chl-a) – a green pigment responsible for photosynthesis\nChl-a captures light energy and converts it into chemical energy (glucose)\nThis is the foundation of all aquatic food webs\n\n\nKey products:\n\nOrganic matter (glucose) - food for consumers\nOxygen (O₂) - byproduct for respiration\nAccounts for ~50% of Earth’s oxygen production"
   },
   {
-    "objectID": "lectures/2_ocean_divisions.html#vertical-zones-pelagic-division",
-    "href": "lectures/2_ocean_divisions.html#vertical-zones-pelagic-division",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Vertical Zones: Pelagic Division",
-    "text": "Vertical Zones: Pelagic Division\n\nPelagic zone: The entire water column (open water)\nDivided into distinct depth zones based on light penetration and pressure\n\nMajor Pelagic Zones:\n\nEpipelagic (Euphotic) – 0-200 m\nMesopelagic (Twilight) – 200-1000 m\nBathypelagic (Midnight) – 1000-6000 m\nHadopelagic (Abyssal) – &gt;6000 m"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#epipelagic-zone-sunlight-zone",
-    "href": "lectures/2_ocean_divisions.html#epipelagic-zone-sunlight-zone",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Epipelagic Zone (Sunlight Zone)",
-    "text": "Epipelagic Zone (Sunlight Zone)\n\nDepth: 0-200 meters\nCharacteristics:\n\nReceives sunlight\nWarmest zone\nSupports photosynthesis\nHighest biodiversity\nDissolved oxygen abundant\n\nPlankton: Rich in phytoplankton and zooplankton\nImportance: Primary production occurs here"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#mesopelagic-zone-twilight-zone",
-    "href": "lectures/2_ocean_divisions.html#mesopelagic-zone-twilight-zone",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Mesopelagic Zone (Twilight Zone)",
-    "text": "Mesopelagic Zone (Twilight Zone)\n\nDepth: 200-1000 meters\nCharacteristics:\n\nDim light (partial darkness)\nTwilight conditions (not enough for photosynthesis)\nRapid temperature decrease\nLower photosynthesis\n\nPlankton: Specialized zooplankton adapted to low light\nOrganisms: Bioluminescent species common"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#bathypelagic-zone-midnight-zone",
-    "href": "lectures/2_ocean_divisions.html#bathypelagic-zone-midnight-zone",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Bathypelagic Zone (Midnight Zone)",
-    "text": "Bathypelagic Zone (Midnight Zone)\n\nDepth: 1000-6000 meters\nCharacteristics:\n\nComplete darkness\nCold temperatures (2-4°C)\nHigh pressure\nLow oxygen in some regions\n\nPlankton: Sparse plankton communities\nEnergy source: Marine snow (falling organic matter)"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#hadopelagic-zone-abyssal-zone",
-    "href": "lectures/2_ocean_divisions.html#hadopelagic-zone-abyssal-zone",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Hadopelagic Zone (Abyssal Zone)",
-    "text": "Hadopelagic Zone (Abyssal Zone)\n\nDepth: &gt;6000 meters\nCharacteristics:\n\nExtreme darkness\nCrushing pressure\nNear-freezing temperatures\nMinimal life\n\nPlankton: Extremely specialized and rare\nOrganisms: Found near hydrothermal vents"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#horizontal-zones-neritic-vs.-oceanic",
-    "href": "lectures/2_ocean_divisions.html#horizontal-zones-neritic-vs.-oceanic",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Horizontal Zones: Neritic vs. Oceanic",
-    "text": "Horizontal Zones: Neritic vs. Oceanic\nNeritic Province:\n\nShallow water above the continental shelf\nExtends 200+ km from shore\nHigh nutrient availability\nHigh productivity\nSupports rich plankton communities\n\nOceanic Province:\n\nDeep water beyond the continental shelf\nLow nutrient availability (except upwelling zones)\nLower productivity in many regions\nUnique specialized plankton"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#benthic-division",
-    "href": "lectures/2_ocean_divisions.html#benthic-division",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Benthic Division",
-    "text": "Benthic Division\n\nBenthic zone: The seafloor and organisms living on/in it\nDivided by depth:\n\nSupralittoral – Above high tide\nLittoral – Intertidal zone\nSublittoral – Continental shelf (&lt; 200 m)\nAbyssal – Deep ocean floor\n\nMeroplankton larvae settle in benthic zones"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#key-factors-affecting-ocean-zones",
-    "href": "lectures/2_ocean_divisions.html#key-factors-affecting-ocean-zones",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Key Factors Affecting Ocean Zones",
-    "text": "Key Factors Affecting Ocean Zones\n\n\n\nFactor\nImpact\n\n\n\n\nLight\nEnables photosynthesis; affects animal behavior\n\n\nTemperature\nControls metabolic rates and organism distribution\n\n\nPressure\nAffects gas solubility and organism physiology\n\n\nDissolved Oxygen\nEssential for respiration; varies by depth\n\n\nNutrients\nCrucial for primary production; limits growth\n\n\nSalinity\nAffects osmotic balance in organisms"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#plankton-distribution-by-zone",
-    "href": "lectures/2_ocean_divisions.html#plankton-distribution-by-zone",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Plankton Distribution by Zone",
-    "text": "Plankton Distribution by Zone\n\n\nEpipelagic:\n\nRich plankton communities\nMaximum phytoplankton\nDiverse zooplankton\nLarval forms\n\nMesopelagic:\n\nDeep-sea copepods\nLarval fishes\nMyctophids (lanternfish)\n\n\nBathypelagic:\n\nSpecialized zooplankton\nDetritus feeders\nBioluminescent species\n\nHadopelagic:\n\nHadal amphipods\nSparse copepods\nSpecialized bacteria"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#importance-of-ocean-divisions",
-    "href": "lectures/2_ocean_divisions.html#importance-of-ocean-divisions",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Importance of Ocean Divisions",
-    "text": "Importance of Ocean Divisions\n\nScientific Understanding:\n\nPredicting organism distribution\nUnderstanding adaptation strategies\nTracking nutrient cycling\n\nConservation:\n\nManaging marine resources\nUnderstanding climate impacts\nProtecting biodiversity\n\nFisheries:\n\nLocating commercial species\nSustainable harvest practices"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#summary",
-    "href": "lectures/2_ocean_divisions.html#summary",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Summary",
-    "text": "Summary\n\nOcean divisions provide a framework for understanding marine ecosystems\nVertical divisions (epipelagic, mesopelagic, bathypelagic, hadopelagic) depend on depth and light\nHorizontal divisions (neritic, oceanic) depend on distance from shore\nEach zone has unique physical conditions\nPlankton distributions reflect these environmental gradients"
-  },
-  {
-    "objectID": "lectures/2_ocean_divisions.html#references",
-    "href": "lectures/2_ocean_divisions.html#references",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "lectures/3_phyto_importance.html#photosynthesis",
-    "href": "lectures/3_phyto_importance.html#photosynthesis",
+    "objectID": "lectures/3_phyto_ecology.html#photosynthesis",
+    "href": "lectures/3_phyto_ecology.html#photosynthesis",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Photosynthesis…",
-    "text": "Photosynthesis…\nThe Photosynthetic Equation:\n\\[6CO_2 + 6H_2O \\xrightarrow{\\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2\\] \\[Carbon dioxide + Water \\xrightarrow{\\text{Sunlight + Chlorophyll}} Glucose + Oxygen\\]\n\nThis process is catalyzed by sunlight and chlorophyll in phytoplankton cells\nIt is the primary mechanism by which energy enters aquatic ecosystems"
+    "text": "Photosynthesis…\nThe Photosynthetic Equation:\n\\[6CO_2 + 6H_2O \\xrightarrow{\\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2\\]"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-1",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-1",
+    "objectID": "lectures/3_phyto_ecology.html#primary-productivity",
+    "href": "lectures/3_phyto_ecology.html#primary-productivity",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Productivity",
+    "text": "Primary Productivity\n\nDefinition: Rate at which phytoplankton produce organic matter through photosynthesis\nTwo types:\n\nGross Primary Productivity (GPP): Total organic matter produced\nNet Primary Productivity (NPP): Organic matter remaining after phytoplankton respiration\n\nGlobal significance: Phytoplankton account for ~50% of total organic matter production on Earth"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-controlling-phytoplankton-growth",
+    "href": "lectures/3_phyto_ecology.html#factors-controlling-phytoplankton-growth",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors Controlling Phytoplankton Growth",
+    "text": "Factors Controlling Phytoplankton Growth\n1. Light (Photosynthetically Active Radiation - PAR)\n\nPAR is the portion of sunlight (400-700 nm) that phytoplankton can use for photosynthesis\nLight is required for photosynthesis\nIt penetrates only upper 200 meters (euphotic zone)\nIts intensity decreases with depth\nAffects vertical distribution of phytoplankton\nLimiting factor: In deep water and winter months"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors",
+    "href": "lectures/3_phyto_ecology.html#factors",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors…",
+    "text": "Factors…\n2. Nutrient Availability\n\n\nMacronutrients:\n\nNitrogen (N) - essential for proteins and nucleic acids\nPhosphorus (P) - crucial for ATP and DNA production\nSilica (Si) - needed by diatoms for cell walls\nCarbon (C) - primary building block of photosynthesis\n\n\nMicronutrients/Trace Elements:\n\nIron (Fe) - critical enzyme co-factor (often limiting)\nManganese (Mn) - photosynthesis component\nZinc (Zn) - enzyme co-factor (often limiting)\nCopper (Cu) - respiration and photosynthesis component\n\n\n\nNutrient limitation: Occurs when essential nutrients become depleted\nSome phytoplankton can fix nitrogen and can grow in areas where nitrate concentrations are low."
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-1",
+    "href": "lectures/3_phyto_ecology.html#factors-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors…",
+    "text": "Factors…\n3. Temperature\n\nAffects metabolic rates and enzyme activity in phytoplankton\nOptimal range: 15-30°C for most species, in tropics, optimal temperature is between 25-30°C\nSeasonal effects: Growth varies with seasonal temperature changes\nGeographic pattern: Higher productivity in temperate zones seasonally, but lower in tropical areas"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-2",
+    "href": "lectures/3_phyto_ecology.html#factors-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors…",
+    "text": "Factors…\n4. Salinity\n\nDetermines osmotic balance for phytoplankton cells\nInfluences nutrient availability and uptake\nAffects species composition (freshwater vs. marine species)"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-3",
+    "href": "lectures/3_phyto_ecology.html#factors-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors…",
+    "text": "Factors…\n5. Water Turbulence and Mixing\n\nVertical mixing: Brings nutrient-rich deeper water to surface\nPrevents sinking: Keeps phytoplankton in euphotic zone\nOptimal conditions: Moderate mixing"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-4",
+    "href": "lectures/3_phyto_ecology.html#factors-4",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors…",
+    "text": "Factors…\n6. Grazing Pressure\n\nPredation by zooplankton: Controls phytoplankton biomass\nTop-down control: High grazing = lower phytoplankton abundance\nSpecies selectivity: Zooplankton prefer certain phytoplankton types"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#nutrient-limitation-and-the-redfield-ratio",
+    "href": "lectures/3_phyto_ecology.html#nutrient-limitation-and-the-redfield-ratio",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Nutrient Limitation and the “Redfield Ratio”",
+    "text": "Nutrient Limitation and the “Redfield Ratio”\n\nRedfield Ratio: C:N:P = 106:16:1\nRepresents the average elemental composition of phytoplankton biomass\nUsed to predict which nutrient will limit growth\n\nApplication:\n\nIf actual N:P ratio &lt; 16:1 → Nitrogen limited\nIf actual N:P ratio &gt; 16:1 → Phosphorus limited\nHelps predict ecosystem productivity"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phytoplankton-growth-phases-overview",
+    "href": "lectures/3_phyto_ecology.html#phytoplankton-growth-phases-overview",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phytoplankton Growth Phases: Overview",
+    "text": "Phytoplankton Growth Phases: Overview\n\nPhytoplankton populations follow a characteristic growth pattern with four distinct phases\nEach phase represents different population dynamics\nUnderstanding these phases is crucial for predicting bloom events and managing aquatic ecosystems"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phase-1-lag-phase-adaptation",
+    "href": "lectures/3_phyto_ecology.html#phase-1-lag-phase-adaptation",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phase 1: Lag Phase (Adaptation)",
+    "text": "Phase 1: Lag Phase (Adaptation)\n\n\nCharacteristics:\n\nPhytoplankton acclimate to new environment\nLow growth rate\nEnzyme and nutrient uptake mechanisms are activated\nCells preparing for rapid growth\n\nDuration:\n\nVariable, typically days to weeks\nDepends on environmental conditions\n\n\nWhat is happening:\n\nCells synthesize enzymes\nPhotosynthetic machinery activated\nNutrient transport systems established\nBuilding internal reserves"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phase-2-exponential-log-growth-phase",
+    "href": "lectures/3_phyto_ecology.html#phase-2-exponential-log-growth-phase",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phase 2: Exponential (Log) Growth Phase",
+    "text": "Phase 2: Exponential (Log) Growth Phase\n\n\nCharacteristics:\n\nRapid population growth under optimal conditions\nResources are abundant\nBiomass doubles at regular intervals\nMaximum growth rate achieved\n\nDuration:\n\nWeeks to months\nContinues while resources available\n\n\nWhat is happening:\n\nCells dividing at maximum rate\nNutrients abundant\nLight optimal\nWaste products not yet limiting\nThis is when algal blooms occur"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phase-3-stationary-phase",
+    "href": "lectures/3_phyto_ecology.html#phase-3-stationary-phase",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phase 3: Stationary Phase",
+    "text": "Phase 3: Stationary Phase\n\n\nCharacteristics:\n\nGrowth rate equals death rate\nNutrient depletion begins\nWaste accumulation occurs\nBiomass plateaus at carrying capacity\n\nDuration:\n\nVariable, typically weeks\nReflects resource availability\n\n\nWhat is happening:\n\nNutrient availability declining\nCompetition for resources intensifying\nToxin accumulation possible\nPopulation stabilizes at maximum sustainable level"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phase-4-death-decline-phase",
+    "href": "lectures/3_phyto_ecology.html#phase-4-death-decline-phase",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phase 4: Death (Decline) Phase",
+    "text": "Phase 4: Death (Decline) Phase\n\n\nCharacteristics:\n\nNutrients are exhausted\nToxic metabolites accumulate\nDeath rate exceeds birth rate\nPopulation crashes\n\nDuration:\n\nDays to weeks\nDepends on toxin levels\n\n\nWhat is happening:\n\nEssential nutrients depleted\nWaste products toxic to cells\nCell lysis and death accelerates\nBiomass rapidly decreases\nDead cells sink (detritus)"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phytoplankton-growth-curve",
+    "href": "lectures/3_phyto_ecology.html#phytoplankton-growth-curve",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phytoplankton Growth Curve",
+    "text": "Phytoplankton Growth Curve"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#key-takeaways-growth-phases",
+    "href": "lectures/3_phyto_ecology.html#key-takeaways-growth-phases",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Key Takeaways: Growth Phases",
+    "text": "Key Takeaways: Growth Phases\n\n\n\n\n\n\n\n\n\nPhase\nGrowth Rate\nLimiting Factors\nPopulation Size\n\n\n\n\nLag\nLow\nAcclimation, enzyme synthesis\nSlowly increasing\n\n\nExponential\nMaximum\nNone (optimal conditions)\nRapidly doubling\n\n\nStationary\nZero\nNutrient depletion, waste\nConstant (carrying capacity)\n\n\nDeath\nNegative\nToxins, starvation\nRapidly declining"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions",
+    "href": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors Triggering Phase Transitions",
+    "text": "Factors Triggering Phase Transitions\nLag → Exponential:\n\nTemperature stabilizes\nEnzyme systems fully activated\nInitial nutrient uptake"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions-1",
+    "href": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors Triggering Phase Transitions",
+    "text": "Factors Triggering Phase Transitions\nExponential → Stationary:\n\nKey nutrients become limiting (N, P, Si, or Fe)\nWaste metabolites accumulate\nLight intensity decreases\nGrazing pressure increases"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions-2",
+    "href": "lectures/3_phyto_ecology.html#factors-triggering-phase-transitions-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors Triggering Phase Transitions",
+    "text": "Factors Triggering Phase Transitions\nStationary → Death:\n\nComplete nutrient depletion\nToxic compound buildup\npH changes\nOxygen depletion in enclosed systems"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#biogeographic-distribution-of-phytoplankton",
+    "href": "lectures/3_phyto_ecology.html#biogeographic-distribution-of-phytoplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Biogeographic Distribution of Phytoplankton",
+    "text": "Biogeographic Distribution of Phytoplankton\nSpatial Patterns:\n\nCoastal waters (Neritic): HIGH productivity\n\nNutrient input from rivers and upwelling\nBetter light penetration\n\nOpen ocean (Oceanic): VARIABLE productivity\n\nOften nutrient-poor (oligotrophic)\n“Oceanic deserts” in tropical regions\nHigh productivity in upwelling zones"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#biogeographic-distribution-of-phytoplankton-1",
+    "href": "lectures/3_phyto_ecology.html#biogeographic-distribution-of-phytoplankton-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Biogeographic Distribution of Phytoplankton",
+    "text": "Biogeographic Distribution of Phytoplankton\nTemporal Patterns:\n\nSeasonal cycles: Spring and fall blooms in temperate zones\nMonsoon-driven cycles: In tropical regions with seasonal rains\nDaily vertical migration: Some species move up/down\nInterannual variability: Related to climate patterns (El Niño, etc.)"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#phyto.-as-primary-producers",
+    "href": "lectures/3_phyto_ecology.html#phyto.-as-primary-producers",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Phyto. as Primary Producers",
+    "text": "Phyto. as Primary Producers\n┌─────────────────────────────────────────────────┐\n│ PHYTOPLANKTON (Primary Producers)               │\n│ • Contain chlorophyll                           │\n│ • Fix CO₂ into organic matter                   │\n│ • Foundation of marine food webs                │\n└────────────────┬────────────────────────────────┘\n                 │ Consumed by\n        ┌────────┴────────┐\n    ┌───▼────────┐   ┌────▼─────────┐ \n    │Zooplankton │   │Filter feeders│\n    └───┬────────┘   └───┬──────────┘\n        └────────┬───────┘Consumed by\n       ┌─────────▼─────────────┐\n       │Fish & other consumers │\n       └───────────────────────┘"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#environmental-responses-of-phytoplankton",
+    "href": "lectures/3_phyto_ecology.html#environmental-responses-of-phytoplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Environmental Responses of Phytoplankton",
+    "text": "Environmental Responses of Phytoplankton\n\n\n\n\n\n\n\nEnvironmental Change\nPhytoplankton Response\n\n\n\n\nIncreased nutrients\nBiomass increase, potential bloom\n\n\nTemperature rise\nSpecies composition shift, range changes\n\n\nDecreased light\nReduced productivity, migration to shallower water\n\n\nOcean acidification\nReduced calcification, cell size changes\n\n\nIncreased UV-B\nCellular damage, reduced photosynthesis\n\n\nSalinity change\nSpecies turnover, osmotic stress"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#indicator-species-and-ecosystem-health",
+    "href": "lectures/3_phyto_ecology.html#indicator-species-and-ecosystem-health",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Indicator Species and Ecosystem Health",
+    "text": "Indicator Species and Ecosystem Health\n\nPhytoplankton as bioindicators:\n\nChanges in species composition = ecosystem changes\nDiversity patterns reflect environmental stress\nSensitive to pollution and nutrient enrichment\n\nEutrophication indicator:\n\nHigh chlorophyll-a = nutrient pollution\nDominated by fast-growing species (e.g., cyanobacteria)\n\nClimate change indicator:\n\nShifting species ranges and phenology\nChanges in bloom timing and intensity"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological Roles of Phytoplankton",
+    "text": "Ecological Roles of Phytoplankton\n\nPrimary Production:\n\n\nPhytoplankton are primary producers, meaning they convert sunlight, carbon dioxide, and nutrients into organic matter through photosynthesis\nThey form the base of the marine food web, providing energy and nutrients to higher trophic levels.\nPhytoplankton are the foundation of all aquatic food web"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-1",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-1",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n2.Carbon Sequestration:\n\nPhytoplankton absorb CO₂ from the atmosphere during photosynthesis and incorporate it into their biomass.\nThrough photosynthesis, phytoplankton consume carbon dioxide on a scale equivalent to forests and other land plants.\nSome of this carbon is carried to the deep ocean when phytoplankton die – effectively removing carbon from the atmosphere and contributing to the regulation of climate.\nSome is transferred to different layers of the ocean as phytoplankton are eaten by other creatures, which themselves reproduce, generate waste, and die."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-2",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-2",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-2",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-2",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n2.Carbon Sequestration…:\n\nWorldwide, this biological carbon pump transfers about 10 gigatonnes of carbon from the atmosphere to the deep ocean each year.\nEven a small changes in the growth of phytoplankton may affect atmospheric carbon dioxide concentrations, which would feed back to global surface temperatures.\nHow ????"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-3",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-3",
+    "objectID": "lectures/3_phyto_ecology.html#section",
+    "href": "lectures/3_phyto_ecology.html#section",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "Carbon flux in the ocean"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#understanding-carbon-flux-the-biological-carbon-pump",
+    "href": "lectures/3_phyto_ecology.html#understanding-carbon-flux-the-biological-carbon-pump",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Understanding Carbon Flux: The Biological Carbon Pump",
+    "text": "Understanding Carbon Flux: The Biological Carbon Pump\nWhat is the Biological Carbon Pump?\n\nMechanism by which carbon dioxide (CO₂) is converted into organic matter by phytoplankton and transported to the deep ocean\nActs as a major regulator of atmospheric CO₂ and global climate"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#understanding-carbon-flux",
+    "href": "lectures/3_phyto_ecology.html#understanding-carbon-flux",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Understanding Carbon Flux…",
+    "text": "Understanding Carbon Flux…\nThe Process (Four key steps):\n\nPhotosynthetic Fixation (Surface)\n\nPhytoplankton fix atmospheric CO₂ into organic compounds (glucose, proteins, lipids)\nOccurs in euphotic zone (0-200 m) where light is available\n\nFood Web Transfer (Surface to Mid-Water)\n\nZooplankton consume phytoplankton\nFish consume zooplankton\nEnergy and carbon transfer up the food chain\n~90% of energy lost at each trophic level"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#understanding-carbon-flux-1",
+    "href": "lectures/3_phyto_ecology.html#understanding-carbon-flux-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Understanding Carbon Flux…",
+    "text": "Understanding Carbon Flux…\n\nParticle Sinking (Active Transport)\n\nDead phytoplankton cells form aggregates (“marine snow”)\nDead zooplankton and fecal pellets sink\nParticles fall through water column (1-100 m/day)\nPassive transport of carbon to depth\n\nRemineralization (Deep Ocean)\n\nBacteria decompose sinking organic matter\nSome carbon sequestered in deep ocean (1000+ years residence time)\nSome carbon recycled back to surface via upwelling"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#understanding-carbon-flux-2",
+    "href": "lectures/3_phyto_ecology.html#understanding-carbon-flux-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Understanding Carbon Flux…",
+    "text": "Understanding Carbon Flux…\nGlobal Carbon Flux Numbers:\n\n~10 gigatonnes of carbon/year transferred from atmosphere to deep ocean\n~50% of Earth’s primary production is from phytoplankton\n~0.5-2 gigatonnes/year permanently sequestered in deep ocean\nEquivalent to all carbon emissions from fossil fuels and deforestation combined!\n\nWhy This Matters for Climate:\n\nReduces atmospheric CO₂ by ~25-50% compared to no biological pump\nSmall changes in phytoplankton productivity = major climate impacts\nOcean warming/acidification affects phytoplankton → reduced CO₂ removal → positive feedback loop"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-3",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-3",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nFood Source:\n\n\nPhytoplankton are consumed by a wide range of marine organisms, including zooplankton, small fish, shellfish, and whales.\nThey feed all aquatic organisms from microscopic, animal-like zooplankton to multi-ton whales.\nSome small fish and invertebrates they also graze on the phytoplankton, and then those smaller animals are eaten by bigger ones.\nThey are essential food sources for many marine species, forming the foundation of marine food webs."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-4",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-4",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-4",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-4",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nNitrogen fixation\n\n\nNitrogen fixation is the biological process by which certain microorganisms, primarily bacteria and cyanobacteria, convert atmospheric nitrogen (N2) into ammonia (NH3) or other nitrogen compounds that can be used by plants and other organisms.\nThey contribute significant amounts of fixed nitrogen to marine ecosystems.\nThis input of fixed nitrogen can alleviate nitrogen limitation in phytoplankton communities, promoting their growth and productivity.\nExample of nitrogen fixers are such as Trichodesmium and Richelia species"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-5",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-5",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-5",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-5",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nNutrient Cycling:\n\n\nPhytoplankton contribute to nutrient cycling in marine ecosystems by recycling nutrients such as nitrogen, phosphorus, and iron.\nThey play a vital role in maintaining nutrient balance and productivity in marine environments."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-6",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-6",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-6",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-6",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nIndicator of Ecosystem Health:\n\n\nChanges in phytoplankton populations can serve as indicators of environmental changes and ecosystem health.\nMonitoring phytoplankton abundance, species composition, and distribution can provide insights into water quality, nutrient levels, and ecosystem dynamics."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-7",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-7",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-7",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-7",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nClimate Regulation:\n\n\nPhytoplankton influence climate by reducing atmospheric CO2 levels during photosynthesis process"
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-8",
-    "href": "lectures/3_phyto_importance.html#ecological-roles-of-phytoplankton-8",
+    "objectID": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-8",
+    "href": "lectures/3_phyto_ecology.html#ecological-roles-of-phytoplankton-8",
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Ecological Roles of Phytoplankton",
     "text": "Ecological Roles of Phytoplankton\n\nOxygen Production:\n\n\nPhytoplankton produce a significant portion of oxygen on the Earth through photosynthesis, contributing more than 50% of the oxygen in the Earth’s atmosphere.\nThey play a major role in maintaining global oxygen levels."
   },
   {
-    "objectID": "lectures/3_phyto_importance.html#biogeographic-distribution-of-phytoplankton-1",
-    "href": "lectures/3_phyto_importance.html#biogeographic-distribution-of-phytoplankton-1",
+    "objectID": "lectures/3_phyto_ecology.html#importance-of-phytoplankton",
+    "href": "lectures/3_phyto_ecology.html#importance-of-phytoplankton",
     "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Biogeographic Distribution of Phytoplankton",
-    "text": "Biogeographic Distribution of Phytoplankton\nTemporal Patterns:\n\nSeasonal cycles: Spring and fall blooms in temperate zones\nMonsoon-driven cycles: In tropical regions with seasonal rains\nDaily vertical migration: Some species move up/down\nInterannual variability: Related to climate patterns (El Niño, etc.)"
+    "section": "Importance of Phytoplankton",
+    "text": "Importance of Phytoplankton\n\nBiotechnological Applications:\n\n\nSome species of phytoplankton are used in biotechnological applications, such as producing biofuels, pharmaceuticals, and nutritional supplements.\nFor example, certain types of microalgae are cultivated for their high lipid content, which can be converted into biodiesel.\nMicroalgae with the highest lipid content, ranging from 10 to 67%, belong to Chlorella, Dunaliella, and Scenedesmus species\nA Spirulina species – a blue-green algae, holds immense potential in the field of biotechnology.\nIts ability to produce valuable secondary metabolites like nutraceuticals and pharmaceuticals makes it a promising source for drug development\nThey are effective in managing allergies, cancer, and other diseases"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-1",
+    "href": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Importance of phytoplankton",
+    "text": "Importance of phytoplankton\n10. Aquaculture\n\nPhytoplankton are a key food item in both aquaculture and mariculture.\nBoth utilize phytoplankton as food for the animals being farmed.\nIn mariculture, the phytoplankton is naturally occurring and is introduced into enclosures with the normal circulation of seawater.\nIn aquaculture, phytoplankton must be introduced directly.\nThe plankton can either be collected from a body of water or cultured."
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-2",
+    "href": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Importance of phytoplankton",
+    "text": "Importance of phytoplankton\n11. Economic Importance of Phytoplankton\n\nPhytoplanktons have several uses and their mass cultivation can also be a major source of income.\nThey are mostly used as food supplements and play a vital role in both animal and human nutrition.\nPhytoplanktons are also used in the manufacture of drugs.\nAlso, they have proven to be suitable for synthesizing vaccines."
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#section-1",
+    "href": "lectures/3_phyto_ecology.html#section-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "Phytoplanktons and their uses\n\n\nPhytoplanktonApplicationChlorella vulgarisFood supplement, animal feedSpirulinaFood supplement and cosmeticsOdontella auritaCosmetics, pharmaceuticals and food for both adults and infantsPhaeodactylum tricornutumFuel production and nutritionPorphyridium cruentumCosmetics, pharmaceuticals and nutrition"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-3",
+    "href": "lectures/3_phyto_ecology.html#importance-of-phytoplankton-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Importance of phytoplankton",
+    "text": "Importance of phytoplankton\n12. Negative importance of phytoplankton\n\nSome phytoplankton species can be the source of death or disease to other aquatic organisms.\nCertain species of phytoplankton produce powerful biotoxins – leading to the development of red tides, or harmful algal blooms (HABs).\nThese toxic blooms can kill marine life and people who eat contaminated seafood.\nPhytoplankton may cause mass mortality in other ways.\nIn the aftermath of a massive bloom, dead phytoplankton sink to the ocean or lake floor.\nThen, decomposition occurs aided by bacteria.\nThis process lead to depletion of oxygen in the water, causing to suffocation of animals.\nThis may result to a massive death of aquatic organisms."
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#section-2",
+    "href": "lectures/3_phyto_ecology.html#section-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "Dead fish washed to a beach at Padre Island, Texas, in October 2009, following a red tide (HABs)"
+  },
+  {
+    "objectID": "lectures/3_phyto_ecology.html#references",
+    "href": "lectures/3_phyto_ecology.html#references",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "References",
+    "text": "References\n\n\n\n\nPeter, N., Semba, M., Lugomela, C., Kyewalyanga, M.S., 2018. The influence of physical-chemical variables on the spatial and seasonal variation of chlorophyll-a in coastal waters of unguja, zanzibar, tanzania. Western Indian Ocean Journal of Marine Science 17, 25–34."
   }
 ]

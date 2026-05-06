@@ -1,7 +1,7 @@
 ---
 title: "AQ 224 -- Plankton Systematics and Ecology"
 subtitle: "Phytoplankton Ecology"
-date: "2026-04-20"
+date: "2026-04-22"
 author: "Nyamisi Peter"
 format: 
     revealjs:
@@ -94,10 +94,6 @@ css: ../styles.css
 - Chl-*a* captures light energy and converts it into chemical energy (glucose)
 - This is the foundation of all aquatic food webs
 
-**The Photosynthetic Equation:**
-
-$$6CO_2 + 6H_2O \xrightarrow{\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2$$
-
 :::
 
 ::: {.column width="40%"}
@@ -108,6 +104,12 @@ $$6CO_2 + 6H_2O \xrightarrow{\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2$
 - **Accounts for ~50% of Earth's oxygen production**
 :::
 :::
+
+## [Photosynthesis...]{style="background: #433E49; color: #ABDFF1"}
+
+**The Photosynthetic Equation:**
+
+$$6CO_2 + 6H_2O \xrightarrow{\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2$$
 
 
 ## [Primary Productivity]{style="background: #433E49; color: #ABDFF1"}
@@ -156,11 +158,11 @@ $$6CO_2 + 6H_2O \xrightarrow{\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2$
 - **Zinc (Zn)** - enzyme co-factor (often limiting)
 - **Copper (Cu)** - respiration and photosynthesis component
 
-- **Nutrient limitation:** Occurs when essential nutrients become depleted
-- Some phytoplankton can fix nitrogen and can grow in areas where nitrate concentrations are low.
 :::
 :::
 
+- **Nutrient limitation:** Occurs when essential nutrients become depleted
+- Some phytoplankton can fix nitrogen and can grow in areas where nitrate concentrations are low.
 
 ## [Factors...]{style="background: #433E49; color: #ABDFF1"}
 
@@ -184,7 +186,6 @@ $$6CO_2 + 6H_2O \xrightarrow{\text{Sunlight + Chlorophyll}} C_6H_{12}O_6 + 6O_2$
 **5. Water Turbulence and Mixing**
 
 - **Vertical mixing:** Brings nutrient-rich deeper water to surface
-- **Reduces light availability:** Deeper mixing = less average light exposure 
 - **Prevents sinking:** Keeps phytoplankton in euphotic zone 
 - **Optimal conditions:** Moderate mixing
 
