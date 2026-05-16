@@ -21,6 +21,8 @@ website:
             href: lectures/3_phyto_ecology.qmd
           - text: "Plankton Taxonomy(Cyanobacteria)"
             href: lectures/4_phyto_taxonomy_cyanobacteria.qmd
+          - text: "Diatoms Taxonomy"
+            href: lectures/5_diatoms_taxonomy.qmd
 
 
       - text: "Practicals"
