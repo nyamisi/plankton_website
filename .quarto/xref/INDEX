@@ -25,5 +25,32 @@
   },
   "lectures/6_diatoms_life_cycle.qmd": {
     "6_diatoms_life_cycle.html": "1462956e"
+  },
+  "lectures/7_diatoms_life_cycle_detailed.qmd": {
+    "7_diatoms_life_cycle_detailed.html": "c770e7eb"
+  },
+  "lectures/7_dinoflagellate_taxonomy.qmd": {
+    "7_dinoflagellate_taxonomy.html": "536d3305"
+  },
+  "lectures/8_dinoflagellate_reproduction.qmd": {
+    "8_dinoflagellate_reproduction.html": "08736d5b"
+  },
+  "Assignment/HABs_assignment.qmd": {
+    "HABs_assignment.html": "6f70d0d7"
+  },
+  "cv_from_docx.qmd": {
+    "cv_from_docx.html": "78f007e1"
+  },
+  "cv_clean.qmd": {
+    "cv_clean.html": "029645ce"
+  },
+  "lectures/10_primary_production.qmd": {
+    "10_primary_production.html": "9d5b0d1b"
+  },
+  "lectures/9_harmful_algal_blooms.qmd": {
+    "9_harmful_algal_blooms.html": "561ea012"
+  },
+  "README_CV.md": {
+    "README_CV.html": "add2a0dd"
   }
 }

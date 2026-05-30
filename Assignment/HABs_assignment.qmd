@@ -1,0 +1,35 @@
+---
+title: "AQ 224 -- Plankton Systematics and Ecology"
+subtitle: "Assignment: Harmful Algal Blooms (HABs)"
+date: "2026-05-28"
+author: "Nyamisi Peter"
+format: 
+    revealjs:
+      standalone: true
+      embed-resources: true
+      reference-location: document
+      theme: serif
+      highlight-style: ayu-mirage
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+
+slide-number: true
+theme: "journal"
+code-fold: false
+scrollable: true
+code-line-numbers: true
+bibliography: ../plankton.bib
+csl: ../havard.csl
+css: ../styles.css
+---
+
+
+Prepare a power point presentation on Harmful Algal Blooms (HABs). Focus on the causes, organisms/species involved, consequences, and management strategies to mitigate their impacts on marine ecosystems. For each group, show a specific case study of the event
+
++ Group1 -- Focus on Brown Tides
++ Group2 -- Focus on Red Tides
++ Group3 -- Focus on Green Tides
+

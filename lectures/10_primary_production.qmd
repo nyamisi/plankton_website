@@ -1,0 +1,186 @@
+---
+title: "AQ 224 -- Plankton Systematics and Ecology"
+subtitle: "Primary Production"
+date: "2026-06-03"
+author: "Nyamisi Peter"
+format: 
+    revealjs:
+      standalone: true
+      embed-resources: true
+      reference-location: document
+      theme: serif
+      highlight-style: ayu-mirage
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+
+slide-number: true
+theme: "journal"
+code-fold: false
+scrollable: true
+code-line-numbers: true
+bibliography: ../plankton.bib
+csl: ../havard.csl
+css: ../styles.css
+---
+
+## [Primary Production]{style="background: #1f2937; color: #ffffff"}
+
+- Primary production is the creation of new organic matter from inorganic substrates.
+- This organic matter serves as the base of the food web for most marine ecosystems.
+- Primary production generally refers to the process of photosynthesis, or the utilization of light energy to produce chemical energy.
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- The photosynthesis process is undertaken by plants and algae according to the reaction below:
+
+$$6CO_2 + 6H_2O \xrightarrow[\text{Chlorophyll}]{\text{Light}} C_6H_{12}O_6 + 6O_2$$
+
+- However, primary production is also carried out by bacteria in the absence of light through chemosynthesis.
+- Instead of light providing the energy for the reaction, the energy comes from the oxidation of inorganic materials, such as hydrogen sulfide on hydrothermal vents
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- Primary production in the ocean is carried out by marine plants i.e mangroves, seagrass, seaweed, and phytoplankton, with phytoplankton being the most important contributors to global primary production.
+- The greatest amount of primary production in the ocean comes from the phytoplankton
+- The total amount of organic material created by the producers is called the **gross primary productivity**, or **total production**.
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- However, the primary producers consume a portion of this organic matter themselves through respiration in order to sustain their life.
+- So, the total amount that is left to support the consumers in the ocean is called **net production**
+
+
+$$Net~production=Gross~production – Respiration$$
+
+- The net production is the amount of organic matter that is available to support the consumers in the ocean.
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- The gross production is the total amount of organic matter created by the producers, while respiration is the amount of organic matter consumed by the producers themselves.
+- Gross production can be divided into two components; new production and regenerated production.
+- New production is supported by nutrients brought in from outside of the local ecosystem through processes such as upwelling or ocean currents.
+- Regenerated production results from the recycling of nutrients within an ecosystem.
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- Most primary producers require nitrogen and phosphorus, which are available in the ocean as nitrate, nitrite, ammonia, and phosphate.
+- The abundances of these molecules and the intensity and quality of light exert a major influence on rates of production.
+- The two principal categories of producers (autotrophs) in the sea are phytoplankton and benthic microalgae and macroalgae.
+
+## [Primary Production...]{style="background: #1f2937; color: #ffffff"}
+
+- Benthic plants grow only on the fringe of the world’s oceans and are estimated to produce only 5 to 10 percent of the total marine plant material in a year
+- Chemoautotrophs are the producers of the deep-sea vents.
+
+## [Measurements of primary production]{style="background: #1f2937; color: #ffffff"}
+
+- Primary productivity is usually determined by measuring the uptake of carbon dioxide or the output of oxygen.
+- Production rates are usually expressed as grams of organic carbon per unit area per unit time ($gC/m^2/yr$)
+
+## [Oxygen emission method]{style="background: #1f2937; color: #ffffff"}
+
+- The oxygen emission method is one of the commonly used procedures for measuring primary production in the ocean.
+- The method involves measuring the rate of oxygen production by phytoplankton as a result of photosynthesis.
+
+## [Steps in oxygen emission method]{style="background: #1f2937; color: #ffffff"}
+
+- Initial oxygen measurement (O1): The concentration of dissolved oxygen in the ocean is first measured in-situ using oxygen probe (DO meter);
+- If the device is not available then the sample is collected, fixed and stored for later measurements in the laboratory
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+
+**Sampling:**
+
+- A water sample is collected from the ocean using two sampling bottle or Niskin bottle; a *transparent bottle* and a *dark bottle*.
+- The sample should be collected at a certain depth where photosynthesis is occurring and the water must not be too turbid.
+- The dark bottled sample will be used as a control in the experiment
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+
+**Incubation:**
+
+- The two water samples are placed in a dark, temperature-controlled incubator and exposed to light of a known intensity for a specific period of time (usually 1-24 hours).
+- During this time, the phytoplankton in the *transparent bottle* will undergo photosynthesis and produce oxygen.
+- The phytoplankton in the *dark bottle* will not undergo photosynthesis, rather respiration due to insufficient light. So, they will consume the available oxygen in the sample
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+  
+**Oxygen measurement:**
+
+- After the incubation period, the amount of dissolved oxygen in both the *transparent bottle* (O2) and *dark bottle* (O3) sample will be measured using a dissolved oxygen probe or titration method.
+
+**Oxygen correction:**
+
+- The amount of oxygen produced by photosynthesis is calculated by subtracting the amount of oxygen consumed by respiration during the incubation period.
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+
+- The total amount of oxygen will be as follows;
+
+$$Total~oxygen=O_2-O_1$$
+
+- The net amount of oxygen produced by photosynthesis will be:
+
+$$Oxygen~produced=Total~Oxygen-O_3$$
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+
+Where;
+
+$O_1$ =Initial oxygen concentration
+
+$O_2$ = Amount of dissolved oxygen in *transparent bottle* after incubation
+$O_3$ = Amount of dissolved oxygen in *dark bottle* after incubation
+
+## [Steps in oxygen method...]{style="background: #1f2937; color: #ffffff"}
+
+**Calculation**:
+
+- The rate of primary production is calculated as the amount of oxygen produced per unit of time (usually milligrams of oxygen per cubic meter of water per hour).
+
+## [Calculations on primary production]{style="background: #1f2937; color: #ffffff"}
+
+**Qn1**.
+
+In a light-dark bottle experiment, the initial DO was 8 mg/L. After 24 hours, the light bottle had 10 mg/L DO, and the dark bottle had 6 mg/L DO. Calculate GPP, NPP, and R.
+
+## [Calculations...]{style="background: #1f2937; color: #ffffff"}
+
+**Answer**:
+
+Respiration (R) = Initial DO − Dark bottle DO = 8 − 6 = 2 mg/L/day
+
+Net Primary Production (NPP) = Light bottle DO − Initial DO = 10 − 8 = 2 mg/L/day
+
+Gross Primary Production (GPP) = NPP + R = 2 + 2 = 4 mg/L/day
+
+## [Calculations...]{style="background: #1f2937; color: #ffffff"}
+
+**Qn2**
+
+If the oxygen evolution rate in a phytoplankton sample is 0.5 mg O₂/L/h in light conditions and respiration is 0.2 mg O₂/L/h, what is the net primary production rate?
+
+## [Calculations...]{style="background: #1f2937; color: #ffffff"}
+
+**Answer**:
+
+NPP = Photosynthesis − Respiration = 0.5 − 0.2 = 0.3 mg O₂/L/h
+
+## [Calculations...]{style="background: #1f2937; color: #ffffff"}
+
+**Qn3**
+
+A lake water sample showed an initial DO of 7.2 mg/L. After 6 hours in the light, DO increased to 8.4 mg/L, while in the dark, it decreased to 6.5 mg/L. Compute GPP, NPP, and R per day (assuming constant rates).
+
+## [Calculations...]{style="background: #1f2937; color: #ffffff"}
+
+**Answer**:
+
+Respiration (R) = (Initial − Dark) × (24/6) = (7.2 − 6.5) × 4 = 2.8 mg/L/day
+
+NPP = (Light − Initial) × (24/6) = (8.4 − 7.2) × 4 = 4.8 mg/L/day
+
+GPP = NPP + R = 4.8 + 2.8 = 7.6 mg/L/day

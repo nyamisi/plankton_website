@@ -1,0 +1,132 @@
+---
+title: "Harmful Algal Blooms (HABs)"
+subtitle: "Causes, impacts and management"
+author: "Nyamisi Peter"
+date: "today"
+format:
+  revealjs:
+    standalone: true
+    embed-resources: true
+    reference-location: document
+    theme: serif
+    highlight-style: ayu-mirage
+execute:
+  echo: false
+  warning: false
+  message: false
+slide-number: true
+theme: "journal"
+code-fold: false
+scrollable: true
+code-line-numbers: true
+bibliography: ../plankton.bib
+css: ../styles.css
+---
+
+## Overview
+
+- Harmful algal blooms (HABs) are high-density accumulations of algae that cause negative impacts on ecosystems, human health, and economies.
+- HABs are produced by diverse groups: dinoflagellates, diatoms, cyanobacteria, and others.
+
+## Definitions
+
+- **Bloom**: a rapid increase in algal biomass in aquatic systems.
+- **Harmful**: when blooms produce toxins, cause hypoxia, clog fisheries, or otherwise disrupt ecosystem services.
+
+## Major Causal Factors
+
+- Nutrient enrichment (nitrogen, phosphorus)
+- Water column stratification and stability
+- Elevated temperature and light
+- Hydrodynamic conditions (retention, upwelling)
+- Anthropogenic influences (runoff, sewage, aquaculture)
+
+## Key Organisms
+
+- Dinoflagellates (e.g., Karenia, Alexandrium)
+- Diatoms (e.g., Pseudo-nitzschia)
+- Cyanobacteria (freshwater; e.g., Microcystis)
+- Others: raphidophytes, haptophytes
+
+## Toxins and Human Health
+
+- Paralytic Shellfish Poisoning (PSP) — saxitoxins
+- Diarrhetic Shellfish Poisoning (DSP) — okadaic acid
+- Amnesic Shellfish Poisoning (ASP) — domoic acid
+- Neurotoxic Shellfish Poisoning (NSP) — brevetoxins
+- Cyanobacterial toxins: microcystins, cylindrospermopsin
+
+## Ecological and Economic Impacts
+
+- Fish kills from hypoxia or toxins
+- Shellfish contamination and harvest closures
+- Tourism loss and water-use restrictions
+- Food-web alterations and biodiversity loss
+
+## Monitoring & Detection
+
+- Remote sensing (satellite ocean colour)
+- In-situ sampling (net tows, water bottles)
+- Physiochemical sensors (fluorometers, CTD)
+- Molecular methods (qPCR, eDNA)
+- Toxin assays (LC-MS, ELISA)
+
+## Management & Mitigation
+
+- Nutrient load reduction (catchment management)
+- Early warning systems and monitoring networks
+- Shellfish bed closures and public advisories
+- Physical removal and aeration (limited use)
+- Research into biological controls and forecasting
+
+## Case Studies (examples)
+
+### 1) Lake Erie — Microcystis bloom and Toledo (2014)
+
+- Event: Large Microcystis bloom contaminated drinking-water intake causing a short-term drinking water advisory for Toledo, Ohio.
+- Impacts: Municipal water supply disruption and heightened attention to watershed nutrient management.
+- Further reading: https://www.epa.gov/ground-water-and-drinking-water/toledo-water-crisis-2014
+
+### 2) Gulf of Mexico — Karenia brevis (Florida red tides)
+
+- Event: Recurring Karenia brevis blooms periodically produce brevetoxins, causing fish kills, respiratory irritation, and shellfish bed closures.
+- Impacts: Economic losses to fisheries and tourism; human respiratory and shellfish-poisoning risks.
+- Monitoring: Florida Fish and Wildlife Research and NOAA maintain event reports and maps: https://myfwc.com/research/redtide/ and https://oceanservice.noaa.gov/hazards/hab/
+
+### 3) West Coast Pseudo-nitzschia — Domoic acid events (e.g., mid-2010s)
+
+- Event: Intense Pseudo-nitzschia blooms produced elevated domoic acid levels leading to shellfish fisheries closures, marine mammal and seabird strandings.
+- Impacts: Fisheries closures, wildlife mortality, and increased monitoring and forecasting efforts.
+- Further reading: NOAA Harmful Algal Bloom resources: https://oceanservice.noaa.gov/hazards/hab/
+
+## Local & Global Monitoring Links
+
+- NOAA Harmful Algal Blooms Program: https://oceanservice.noaa.gov/hazards/hab/
+- IOC-UNESCO Harmful Algae Programme: https://hab.ioc-unesco.org/
+- US EPA — Cyanobacterial HAB resources: https://www.epa.gov/cyanohabs
+- Florida Fish and Wildlife Research (red tide): https://myfwc.com/research/redtide/
+- Replace or add your local monitoring pages here (state agency, university lab, or marine monitoring network).
+
+## Prevention and Policy
+
+- Land-use practices to reduce runoff
+- Wastewater treatment upgrades
+- Cross-sector coordination (health, environment, fisheries)
+
+## Summary
+
+- HABs arise from a mix of natural and human-driven factors.
+- Effective response combines monitoring, pollution control, and public communication.
+
+## References
+
+- See bibliography for key references on HAB ecology and management.
+
+---
+
+<!-- Optional: include an illustrative image if available -->
+
+![](../graphics/images/picha/Dinoflagellate-reproduction.png){width=60%}
+
+
+

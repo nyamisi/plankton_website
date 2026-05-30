@@ -23,6 +23,13 @@ website:
             href: lectures/4_phyto_taxonomy_cyanobacteria.qmd
           - text: "Diatoms Taxonomy"
             href: lectures/5_diatoms_taxonomy.qmd
+          - text: "Diatoms Life Cycle"
+            href: lectures/6_diatoms_life_cycle.qmd
+          - text: "Dinoflagellates Taxonomy"
+            href: lectures/7_dinoflagellate_taxonomy.qmd
+          - text: "Dinoflagellates Reproduction"
+            href: lectures/8_dinoflagellate_reproduction.qmd
+
 
 
       - text: "Practicals"
@@ -33,6 +40,11 @@ website:
           #   href: practical/length_weight_isometric.qmd
 
 
+      - text: "Assignments"
+        menu:
+          - text: "Assignment 1"
+            href: Assignment/HABs_assignment.qmd
+          
       - text: "Resources"
         menu:
           - text: "Data"
