@@ -29,6 +29,15 @@ website:
             href: lectures/7_dinoflagellate_taxonomy.qmd
           - text: "Dinoflagellates Reproduction"
             href: lectures/8_dinoflagellate_reproduction.qmd
+          - text: "Harmful Algal Blooms"
+            href: lectures/9_harmful_algal_bloom.qmd
+          - text: "Types of HABs"
+            href: lectures/10_types_of_HABs.qmd
+          - text: "Primary Production"
+            href: lectures/11_primary_production.qmd
+          - text: "Zooplankton Ecology and Taxonomy"
+            href: lectures/12_zooplankton_taxonomy.qmd
+
 
 
 

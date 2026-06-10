@@ -1,0 +1,238 @@
+---
+title: "AQ 224 -- Plankton Systematics and Ecology"
+subtitle: "Types of HABs"
+date: "2026-06-02"
+author: "Nyamisi Peter"
+format: 
+    revealjs:
+      standalone: true
+      embed-resources: true
+      reference-location: document
+      theme: serif
+      highlight-style: ayu-mirage
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+
+slide-number: true
+theme: "journal"
+code-fold: false
+scrollable: true
+code-line-numbers: true
+bibliography: ../plankton.bib
+csl: ../havard.csl
+css: ../styles.css
+---
+
+# [Types of HABs]{style="background: #1f2937; color: #ffffff"}
+
+## [Brown tide]{style="background: #1f2937; color: #ffffff"}
+
+**Causative organisms:**
+
+- Primarily caused by the rapid growth of specific species belonging to the class **Pelagophyceae**:
+    - *Aureococcus anophagefferens*: Known for maintaining high growth efficiency even under nutrient limitation.
+    - *Aureomonas lagunensis*: Tolerates wide temperature and salinity ranges, with accelerated growth at higher temperatures.
+
+**Characteristics:**
+
+- Brown tide algae do not produce toxins that directly harm humans or animals.
+- The name **brown tide** refers to the characteristic brownish coloration of the water caused by the abundance of algae.
+
+
+## [Brown tide...]{style="background: #1f2937; color: #ffffff"}
+
+![Brown tide](../graphics/images/brown_algal_bloom.jpg)
+
+## [Ecological effects of Brown tide]{style="background: #1f2937; color: #ffffff"}
+
+**Reduced light penetration:**
+
+- High cell densities (up to $10^9$ cells/L) significantly increase turbidity.
+- Shading inhibits the growth of **submerged aquatic vegetation (SAV)**, particularly seagrasses like *Zostera marina*.
+- Loss of seagrass leads to habitat degradation for juvenile fish and invertebrates.
+
+## [Ecological effects of Brown tide...]{style="background: #1f2937; color: #ffffff"}
+
+**Impact on shellfish (indirect toxicity):**
+
+- While non-toxic to humans, these algae interfere with the feeding mechanisms of filter-feeders.
+- **Mechanical interference**: High concentrations clog the cilia of shellfish (e.g., scallops and mussels).
+- **Nutritional deficiency**: Poor food quality leads to starvation, reduced growth, and mass recruitment failure in bivalve populations.
+- **Trophic inhibition**: Reduced light penetration can inhibit the growth of other phytoplankton that shellfish depend on for food.
+
+## [Ecological effects of Brown tide...]{style="background: #1f2937; color: #ffffff"}
+
+**Altered food web dynamics:**
+
+- Brown tide blooms alter the composition of the plankton community, causing cascading effects.
+- **Zooplankton inhibition**: The small size and poor nutritional quality of *Aureococcus* can inhibit grazing by copepods.
+- Changes in plankton populations affect the abundance and distribution of higher trophic levels (fish and marine mammals) that rely on them for food.
+
+## [Economic effects of Brown tide]{style="background: #1f2937; color: #ffffff"}
+
+- **Fisheries and aquaculture**: Significant financial losses for fishermen and shellfish farmers due to mass recruitment failure and reduced growth in bivalve populations (e.g., scallops and mussels).
+- **Industry closures**: Mandatory closures of shellfish harvesting areas due to contamination concerns and population declines.
+- **Tourism and recreation**: The characteristic brownish discoloration and loss of seagrass habitats can negatively impact coastal tourism and recreational activities.
+- **Cascading costs**: Economic impacts extend to businesses reliant on healthy marine ecosystems, such as local seafood markets and tourism-dependent services.
+
+## [Red tide]{style="background: #1f2937; color: #ffffff"}
+
+**Causative organisms:**
+
+- Red tides are phenomena primarily caused by **dinoflagellates**.
+- Common species include *Karenia brevis* (prevalent in the Gulf of Mexico) and *Alexandrium spp.*
+- These organisms produce potent toxins such as **brevetoxins** and **saxitoxins**.
+
+## [Characteristics of red tide]{style="background: #1f2937; color: #ffffff"}
+
+- Despite the name, water discoloration can range from **reddish-brown to yellow or green**, depending on the pigments of the dominant species.
+- The water often appears murky or "rusty" due to extremely high cell concentrations.
+- Toxins can bioaccumulate through the food web, eventually reaching humans via contaminated seafood.
+
+## [Red tide...]{style="background: #1f2937; color: #ffffff"}
+
+![Red tide](../graphics/images/HABS-redtide-blog.png)
+
+## [Effects of red tide]{style="background: #1f2937; color: #ffffff"}
+
+**Toxic effects:**
+
+- The toxins produced by red tide algae can have harmful effects on marine life.
+
+  - **Direct mortality**: Toxins can kill fish, shellfish, and other marine organisms through acute poisoning.
+  - **Indirect mortality**: Massive blooms can cause oxygen depletion (hypoxia) in the water column during decomposition, leading to suffocation of marine life.
+  - **Bioaccumulation**: Marine mammals, seabirds, and turtles can be affected or killed after consuming contaminated prey, moving toxins up the food chain.
+
+## [Effects of red tide...]{style="background: #1f2937; color: #ffffff"}
+
+**Human health risks:**
+
+- **Exposure routes**: Toxins pose risks through the consumption of contaminated seafood or the inhalation of aerosolized toxins (common with *Karenia brevis*).
+- **Symptom range**: Ingestion can cause nausea, vomiting, diarrhea, and severe neurological effects.
+- **Specific syndromes**: Red tides are frequently associated with **Paralytic Shellfish Poisoning (PSP)** and **Neurotoxic Shellfish Poisoning (NSP)**.
+
+## [Paralytic Shellfish Poisoning (PSP)]{style="background: #1f2937; color: #ffffff"}
+
+- **Causative organisms**: Produced by dinoflagellate species including *Alexandrium spp.* (e.g., *A. tamarense, A. catenella*), *Gymnodinium catenatum*, and *Pyrodinium bahamense*.
+- **Transmission**: Induced via consuming contaminated bivalve molluscs (mussels, clams), crustacea, or gastropods that have filtered or fed on toxic cells.
+- **Severity**: A serious, potentially fatal illness characterized by rapid onset of neurological symptoms.
+
+## [PSP...]{style="background: #1f2937; color: #ffffff"}
+
+**PSP toxin(s)**
+
+- The primary biotoxin responsible is **SAXITOXIN (STX)**.
+- It is considered one of the most potent natural neurotoxins known.
+- **Mechanism**: It binds to voltage-gated sodium channels in nerve cells, blocking nerve impulse transmission and leading to muscle paralysis.
+- Common derivatives include neosaxitoxin (neoSTX), gonyautoxins (GTX), and decarbamoylsaxitoxin (dcSTX), which vary in toxicity levels.
+
+## [PSP Symptoms]{style="background: #1f2937; color: #ffffff"}
+
+- **Early signs**: Tingling or numbness in the face, lips, tongue, and extremities.
+- **Progression**: Followed by headache, dizziness, nausea, and loss of muscle coordination (ataxia).
+- **Severe cases**: Progressive muscular paralysis and respiratory failure.
+- **Fatality**: Death can occur within 2 to 12 hours after consumption due to respiratory arrest.
+
+## [PSP Symptoms...]{style="background: #1f2937; color: #ffffff"}
+
+- **Recovery**: If the dose is low and medical support (like mechanical ventilation) is provided, symptoms typically diminish within 9 hours.
+- **Prognosis**: Patients who survive the first 24 hours have a high probability of a full and rapid recovery, as the toxin is eventually excreted.
+
+## [Diarrhetic Shellfish Poisoning (DSP)]{style="background: #1f2937; color: #ffffff"}
+
+- **Diarrhetic Shellfish Poisoning (DSP)** is a type of foodborne illness caused by consuming shellfish contaminated with *lipophilic* toxins produced by harmful algal species, particularly dinoflagellates.
+
+## [Diarrhetic Shellfish Poisoning (DSP)]{style="background: #1f2937; color: #ffffff"}
+
+**Causative organisms & toxins:**
+
+- Main toxin producers include:
+
+    - *Dinophysis spp.* (e.g., *D. acuminata, D. fortii*)
+    - *Prorocentrum spp.* (e.g., *P. lima*)
+
+- Toxins involved are:
+
+    - **Okadaic Acid (OA)**: The most common DSP toxin.
+    - **Dinophysistoxins (DTXs)**.
+    - **Pectenotoxins (PTXs)**: Often co-occur, though less diarrheagenic.
+
+## [DSP...]{style="background: #1f2937; color: #ffffff"}
+
+**Mechanism of action:**
+
+- These toxins are **lipophilic** and inhibit protein **phosphatases**, leading to hyperphosphorylation of proteins in intestinal cells, resulting in intestinal fluid secretion and severe diarrhea.
+
+## [Symptoms of DSP]{style="background: #1f2937; color: #ffffff"}
+
+**Clinical presentation:**
+
+- **Onset**: Symptoms typically begin between **30 minutes to 12 hours** after ingestion.
+
+- **Primary symptoms**:
+    - Severe diarrhea (most characteristic sign).
+    - Nausea and vomiting.
+    - Abdominal cramps.
+    - Mild fever (rare).
+
+## [Symptoms of DSP...]{style="background: #1f2937; color: #ffffff"}
+
+- **Duration**: Symptoms usually resolve within **3 days** without long-term sequelae.
+
+**Sources of contamination:**
+
+- Primarily through the consumption of affected filter-feeding shellfish such as **mussels, clams, oysters, and scallops** that accumulate toxins in their digestive glands.
+
+## [Economic and Environmental Impacts]{style="background: #1f2937; color: #ffffff"}
+
+**Economic impacts:**
+
+- **Fisheries & Aquaculture**: Mass fish kills and mandatory shellfish closures lead to direct financial losses for fishermen and farmers.
+- **Tourism**: Beach closures and the presence of dead marine life deter visitors, impacting hotels, restaurants, and local businesses.
+- **Public Health Costs**: Increased medical expenses and lost workdays due to respiratory issues or seafood poisoning.
+- **Management Costs**: Expenses related to water quality monitoring, toxin testing, and carcass cleanup.
+
+## [Environmental Impacts]{style="background: #1f2937; color: #ffffff"}
+}
+
+- Red tide blooms can disrupt marine ecosystems by causing mass mortalities of fish, shellfish, and other marine organisms.
+- They can also harm coral reefs and seagrass beds by reducing light penetration and depleting oxygen levels in the water.
+
+## [Monitoring and Management of red tide]{style="background: #1f2937; color: #ffffff"}
+
+- Monitoring programs are essential for tracking the development and movement of red tide blooms and assessing their potential impacts on human health and the environment.
+- Management strategies may include the closure of shellfish harvesting areas, public health advisories, and research into methods for mitigating or preventing red tide blooms.
+
+## [Green tide]{style="background: #1f2937; color: #ffffff"}
+
+- A green tide refers to a massive proliferation of green phytoplankton in marine or freshwater ecosystems, leading to visible green discoloration of the water.
+- These events are often caused by nutrient enrichment (eutrophication), particularly from excess nitrogen and phosphorus from agricultural runoff, sewage, or industrial discharges.
+
+## [Green tide...]{style="background: #1f2937; color: #ffffff"}
+
+- It leads to overgrowth of cyanobacteria (blue-green algae) particularly *Microcystis*, *Spirogyra*.
+- Green tide blooms can give the water a greenish colour, hence the name.
+- The algae may form dense mats or carpets on the water surface or accumulate along shorelines, especially in areas with low water circulation.
+
+## [Green tide...]{style="background: #1f2937; color: #ffffff"}
+ 
+
+![](../graphics/images/harmfal_algal_blooms_og.jpg)
+
+## [Causes & effects]{style="background: #1f2937; color: #ffffff"}
+
+- Eutrophication (excessive nutrients like nitrogen & phosphorus) particularly from agricultural runoff, sewage discharges, and urban stormwater runoff.
+- Warm temperatures and calm water conditions.
+- Some species may produce toxins harmful to humans and animals.
+- it may also cause skin irritation, respiratory issues, and poisoning if ingested.
+
+## [Ecological Impacts]{style="background: #1f2937; color: #ffffff"}
+
+- Not all green algae are toxic, excessive growth of green tide can have negative ecological impacts.
+- Dense mats of algae can block sunlight from reaching submerged aquatic vegetation, such as seagrasses, which are important habitats for many marine species.
+- This reduction in light penetration can disrupt the balance of the ecosystem and lead to declines in biodiversity.
+
+## [References]{style="background: #1f2937; color: #ffffff"}

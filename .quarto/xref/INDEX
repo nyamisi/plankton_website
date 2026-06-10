@@ -52,5 +52,20 @@
   },
   "README_CV.md": {
     "README_CV.html": "add2a0dd"
+  },
+  "lectures/9_harmful_algal_bloom.qmd": {
+    "9_harmful_algal_bloom.html": "7615ba7c"
+  },
+  "lectures/10_types_of_HABs.qmd": {
+    "10_types_of_HABs.html": "d7894c78"
+  },
+  "lectures/9_HABs_case_studies.qmd": {
+    "9_HABs_case_studies.html": "967696c4"
+  },
+  "lectures/11_primary_production.qmd": {
+    "11_primary_production.html": "6964b351"
+  },
+  "lectures/12_zooplankton_taxonomy.qmd": {
+    "12_zooplankton_taxonomy.html": "0e1b7f01"
   }
 }
