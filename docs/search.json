@@ -924,6 +924,695 @@
     "text": "References"
   },
   {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#behavioral-classification-of-zooplankton",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#behavioral-classification-of-zooplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Behavioral classification of zooplankton",
+    "text": "Behavioral classification of zooplankton\nWhile zooplankton are often grouped by size or taxonomy, their behavioral strategies are critical for understanding their ecological roles, survival, and distribution in the water column.\nKey behavioral categories include:\n\nVertical migrators (Diel and seasonal)\nLocomotion styles (Passive drifters vs. active swimmers)\nFeeding strategies (Filter feeders vs. predators)"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#diel-vertical-migration-dvm",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#diel-vertical-migration-dvm",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Diel Vertical Migration (DVM)",
+    "text": "Diel Vertical Migration (DVM)\n\nDiel migrators move vertically in the water column on a 24-hour cycle.\nStrategy: They descend to deeper, darker waters during the day to avoid visual predators (like fish) and ascend to the nutrient-rich surface at night to feed on phytoplankton.\nThis is often considered the largest animal migration on Earth in terms of biomass.\nExamples: Copepods, krill, and some species of jellyfish."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#diel-vertical-migration-dvm-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#diel-vertical-migration-dvm-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Diel Vertical Migration (DVM)",
+    "text": "Diel Vertical Migration (DVM)"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#seasonal-migration",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#seasonal-migration",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Seasonal Migration",
+    "text": "Seasonal Migration\n\nSeasonal migrators move vertically based on seasonal environmental shifts rather than daily light cycles.\nDrivers: Changes in water temperature, nutrient availability, or life-cycle requirements (e.g., diapause).\nExample: Many polar and temperate copepods migrate to deep water (ontogenetic migration) to overwinter in a state of reduced metabolism when surface food is scarce."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#seasonal-migration-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#seasonal-migration-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Seasonal Migration",
+    "text": "Seasonal Migration"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#passive-drifters",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#passive-drifters",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Passive Drifters",
+    "text": "Passive Drifters\n\nPassive drifters: Organisms that lack the ability to swim against major horizontal currents and rely entirely on water movement for dispersal.\nEcological role: This strategy is common among meroplankton, allowing the offspring of benthic or nektonic adults to colonize new habitats.\nExamples:\n\nLarvae of many marine organisms (crabs, lobsters, fish).\nLarge gelatinous organisms like some jellyfish (though they can pulse, they cannot overcome strong currents).\n\n\n\nPassive Drifters"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#active-swimmers",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#active-swimmers",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Active Swimmers",
+    "text": "Active Swimmers\n\nActive swimmers: Zooplankton that possess the musculature and specialized appendages to move independently of small-scale water turbulence.\nMechanisms:\n\nUse of appendages (e.g., copepod swimming legs, krill pleopods).\nJet propulsion (e.g., pulsing of jellyfish medusae or salp contractions).\nUndulatory movement (e.g., arrow worms).\n\nPurpose: Allows for directed movement to find food patches, locate mates, and perform rapid escape responses from predators.\nExamples: Chaetognaths (arrow worms), euphausiids (krill), and many jellyfish."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-strategies",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-strategies",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Strategies",
+    "text": "Feeding Strategies\n\n\nFilter Feeders\n\nThese are zooplankton that feed by filtering small particles (phytoplankton, bacteria, detritus) from the water column.\nThey use specialized structures such as cilia (rotifers), setae (copepods), or bristles to capture food particles.\nThis strategy is essential for transferring energy from primary producers to higher trophic levels.\nExamples: Copepods, krill, salps, and rotifers.\n\n\n\n\n\nFilter feeding mechanism"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-strategies-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-strategies-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Strategies",
+    "text": "Feeding Strategies\n\n\nPredators\n\nThese are zooplankton that actively hunt and consume other planktonic organisms.\nThey have specialized structures such as hooks, spines, or tentacles to capture their prey.\nThey play a top-down role in regulating the abundance of other zooplankton and fish larvae.\nExamples: Jellyfish, chaetognaths (arrow worms), and some predatory copepods.\n\n\n\n\n\nPredation feeding"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#genetic-classification-of-zooplankton",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#genetic-classification-of-zooplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Genetic Classification of Zooplankton",
+    "text": "Genetic Classification of Zooplankton\n\nGenetic tools are essential for resolving evolutionary relationships and assessing biodiversity that morphological studies might miss.\n\n\nPhylogenetic classification:\n\nBased on genetic relatedness using molecular techniques like DNA sequencing.\nHelps determine evolutionary lineages and has led to the revision of many taxonomic groups (e.g., identifying cryptic species in copepods).\n\nPopulation genetics:\n\nStudies genetic variation within and between populations.\nUsed to track the health of krill populations and how they adapt to changing ocean environments.\n\nFunctional genetics:\n\nFocuses on the genetic basis of traits like swimming behavior, feeding efficiency, and predator avoidance."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Behavior",
+    "text": "Feeding Behavior\nZooplankton employ diverse strategies to acquire energy:\n\n\n\nFilter feeding: The most common strategy. Uses cilia, setae, or bristles to sieve particles (algae, bacteria) from water.\n\nExamples: Copepods, krill, salps.\n\n\n\n\n\n\nFilter feeding"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Behavior…",
+    "text": "Feeding Behavior…\n\nGrazing: Scraping or grazing on surfaces (plants/rocks) to consume diatoms and larger phytoplankton.\n\nExamples: Rotifers, some copepods."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-2",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Behavior…",
+    "text": "Feeding Behavior…\n\n\n\nPredation: Active hunting using hooks, spines, or tentacles.\n\nExamples: Jellyfish, arrow worms.\n\n\n\n\n\n\nPredation feeding"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-3",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Behavior…",
+    "text": "Feeding Behavior…\n\n\n\nMixotrophy: Combining photosynthesis with heterotrophic feeding.\n\nExamples: Some dinoflagellates and ciliates.\n\n\n\n\n\n\nMixotrophyic feeding"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-4",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#feeding-behavior-4",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Feeding Behavior…",
+    "text": "Feeding Behavior…\n\nParasitism: Living off the fluids or tissues of a host.\n\nExamples: Parasitic copepods."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#reproduction",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#reproduction",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Reproduction",
+    "text": "Reproduction\n\nZooplankton have a variety of reproductive strategies, ranging from sexual reproduction to asexual reproduction.\nSome species reproduce sexually, with males and females releasing their gametes into the water column.\nOther species reproduce asexually, with individuals producing clones of themselves through budding or fragmentation.\nIn some cases, zooplankton can switch between sexual and asexual reproduction depending on environmental conditions i.e Daphnia, Jellyfish."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#sexual-reproduction",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#sexual-reproduction",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Sexual reproduction",
+    "text": "Sexual reproduction\n\nMany species of zooplankton reproduce sexually, which involves the fusion of gametes (sperm and egg cells).\nIn some species, males and females release their gametes into the water, where fertilization occurs externally.\nIn other species, males transfer their sperm to the female, who then fertilizes her eggs internally.\nExamples of zooplankton with sexual reproduction are Copepods and Krill."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Asexual reproduction",
+    "text": "Asexual reproduction\n\nSome species of zooplankton are capable of asexual reproduction, where offspring are produced without the involvement of gametes.\nThis can occur through various mechanisms such as budding, fragmentation, or parthenogenesis (where an unfertilized egg develops into an embryo)."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Asexual reproduction…",
+    "text": "Asexual reproduction…\n\nBudding: A new individual grows as an outgrowth from the parent organism, which then detaches and becomes a separate individual.\n\nExamples: Cnidaria and Scyphozoans.\n\n\n\nCnidaria and Scyphozoan"
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction-2",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#asexual-reproduction-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Asexual reproduction…",
+    "text": "Asexual reproduction…\n\nFragmentation: The parent organism breaks into several parts, each of which can grow into a new individual.\nParthenogenesis: A type of reproduction in which an unfertilized egg develops into a new individual without fertilization.\n\nExample: Some species of rotifers reproduce through parthenogenesis and produce only females."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#mixis",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#mixis",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Mixis",
+    "text": "Mixis\n\nMixis is a specialized reproductive strategy where environmental cues (e.g., photoperiod, temperature, or population density) trigger a switch from asexual to sexual reproduction.\nThis process results in the production of resting eggs, which are thick-walled and highly resistant to environmental stress.\nEcological significance: These eggs can remain dormant in the sediment for years, acting as a seed bank to repopulate the environment when favorable conditions return.\nExample: Rotifers."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#hermaphroditism",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#hermaphroditism",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Hermaphroditism",
+    "text": "Hermaphroditism\n\nHermaphroditism: Some species possess both male and female reproductive organs.\n\nThis allows for self-fertilization or mating with any other individual of the same species, maximizing reproductive opportunities in sparse populations.\nIt helps increase or maintain genetic diversity through cross-fertilization.\nExamples: Arrow worms (Chaetognaths) and some species of Ctenophores."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-of-zooplankton",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-of-zooplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Life cycle of zooplankton",
+    "text": "Life cycle of zooplankton\n\nThe life cycle of zooplankton typically includes several stages, starting from the egg stage, followed by larval stages, and finally reaching adulthood."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-from-egg-to-larva",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-from-egg-to-larva",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Life Cycle: From Egg to Larva",
+    "text": "Life Cycle: From Egg to Larva\n\nThe egg stage: Females produce large numbers of small, transparent eggs. These are often buoyant and carried long distances by ocean currents.\nHatching: Once the eggs hatch, the larvae emerge.\nLarval characteristics:\n\nOften look completely different from adults (morphologically distinct).\nMay have different feeding habits and behaviors.\nSome are active swimmers, while others are passive drifters.\nThis stage is critical for rapid growth and energy acquisition."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-juvenile-to-adult",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#life-cycle-juvenile-to-adult",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Life Cycle: Juvenile to Adult",
+    "text": "Life Cycle: Juvenile to Adult\n\nJuvenile stage: As larvae develop, they transition into juveniles that begin to resemble the adult form.\nDuring this stage, they undergo significant morphological changes, such as the development of appendages for swimming and feeding.\n\nDevelopment of specialized feeding structures.\nImproved swimming efficiency.\nSurvival challenge: Must avoid intense predation while finding enough food to reach maturity.\n\nAdult stage: The final stage where the organism is sexually mature.\n\nRange from microscopic copepods to massive jellyfish.\nOccupy specific ecological niches (filter feeders vs. predators)."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#environmental-timing-of-reproduction",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#environmental-timing-of-reproduction",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Environmental Timing of Reproduction",
+    "text": "Environmental Timing of Reproduction\n\nReproduction is rarely random; it is often synchronized with environmental cues:\n\nTemperature: Warmer waters often accelerate metabolic and reproductive rates.\nLight: Photoperiod changes can trigger spawning or mixis.\nNutrient availability: Reproduction often peaks during phytoplankton blooms to ensure larvae have adequate food.\nExample: Many species reproduce more intensely during summer when food supply and temperatures are optimal."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#factors-affecting-zooplankton",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#factors-affecting-zooplankton",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Factors Affecting Zooplankton",
+    "text": "Factors Affecting Zooplankton\n\nSpatial and seasonal changes of zooplankton are a critical aspect of marine ecology.\nZooplankton are the primary consumers in the marine food web and play a crucial role in the transfer of energy from phytoplankton to higher trophic levels.\nThe spatial and temporal distribution of zooplankton is influenced by a variety of factors, including physical and chemical conditions, as well as biological interactions."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Physical and Chemical Factors",
+    "text": "Physical and Chemical Factors\nEnvironmental Drivers:\n\nTemperature: Influences metabolic rates, growth, and thermal niche boundaries.\nLight: Dictates DVM patterns and visibility to predators.\nSalinity & pH: Affects osmotic balance and physiology (especially for calcifying groups like Foraminifera).\nOcean currents: Primary mechanism for the dispersal of passive drifters and meroplankton.\nNutrients: Indirectly control zooplankton via the abundance of their prey (phytoplankton/bacteria)."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors-1",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Physical and Chemical Factors…",
+    "text": "Physical and Chemical Factors…\nSpatial Distribution:\n\nUpwelling zones: High nutrient availability leads to phytoplankton blooms, supporting massive zooplankton biomass.\nEstuaries: High productivity but challenging salinity gradients; favors specialized species.\nVertical stratification: Temperature and density layers (thermoclines) can act as barriers or aggregation points for different species."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors-2",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#physical-and-chemical-factors-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Physical and Chemical Factors…",
+    "text": "Physical and Chemical Factors…\nTemporal (Seasonal) Changes:\n\nSpring/Summer: Explosive growth triggered by warming waters and the spring phytoplankton bloom.\nAutumn: Populations decline as temperatures cool, food becomes scarce, and predation pressure peaks.\nWinter: Many species enter dormancy (diapause) or produce resting eggs to survive low-food conditions.\nChemical stressors: Sensitivity to heavy metals (e.g., copper, mercury) and acidification can limit survival in polluted or high-CO₂ environments."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#biological-factors",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#biological-factors",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Biological Factors",
+    "text": "Biological Factors\nBiological interactions significantly shape zooplankton distribution:\n\nPredation: Consumption by fish, whales, or larger invertebrates. Predators create landscapes of fear where zooplankton distribution is dictated by predator avoidance behaviors.\nGrazing Pressure: Zooplankton abundance is often inversely related to phytoplankton density (top-down control).\nCompetition: Interspecific and intraspecific competition for limited resources like food or optimal habitat.\nReproductive Rates: Population spikes are tied to the growth rates of their prey (bottom-up control)."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#environmental-sensitivity",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#environmental-sensitivity",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Environmental Sensitivity",
+    "text": "Environmental Sensitivity\n\nZooplankton are also sensitive to their environment.\nBio-indicators: A change in zooplankton concentration or community structure can indicate subtle environmental shifts.\nResponsiveness: They are highly responsive to nutrient levels, temperature changes, pollution, poor food quality, light levels, and predation pressure.\nEcosystem health: The diversity of species, biomass, and abundance of zooplankton communities are used as metrics to determine the overall health and productivity of an ecosystem.\nEarly warning: Because of their short life cycles, they respond rapidly to stressors, acting as an early warning system for environmental degradation."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#applications-in-scientific-research",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#applications-in-scientific-research",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Applications in Scientific Research",
+    "text": "Applications in Scientific Research\nZooplankton serve as vital tools across multiple scientific disciplines:\n\nEcological studies: Used to assess ecosystem health, productivity, and energy transfer dynamics.\nClimate research: Act as sentinels of climate change. Shifts in the timing of zooplankton blooms (phenology) indicate warming trends and impact the entire food web.\nAquaculture: Essential as live feed for larval fish and shellfish. Research focuses on sustainable mass-culturing techniques.\nBiotechnology: Source of biologically active compounds for medicine (e.g., anti-inflammatory or antimicrobial agents).\nWater quality monitoring: Serve as bio-indicators. Their sensitivity to pollutants and pH makes them ideal for tracking environmental degradation."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#emerging-technologies-in-zooplankton-research",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#emerging-technologies-in-zooplankton-research",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Emerging Technologies in Zooplankton Research",
+    "text": "Emerging Technologies in Zooplankton Research\nModern methods are revolutionizing how we study these drifters:\n\nHigh-resolution imaging: Underwater cameras and ROVs allow for real-time observation of behavior in natural habitats.\nEnvironmental DNA (eDNA) & Metabarcoding: Identifying species from water samples without needing to capture individual organisms.\nAcoustic methods: Using echosounders to quantify biomass and track DVM across entire ocean basins.\nStable isotope analysis: Measuring Carbon and Nitrogen isotopes to map complex who-eats-whom relationships.\nMachine learning (AI): Automated image recognition to classify thousands of plankton samples in seconds."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#ecological-importance-summary",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#ecological-importance-summary",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological Importance Summary",
+    "text": "Ecological Importance Summary\n\nTrophic transfer: The bridge between primary producers and megafauna.\nNutrient cycling: Rapid recycling of Nitrogen and Phosphorus in the photic zone.\nCarbon sequestration: Driving the Biological Pump by transporting carbon to the deep sea via fecal pellets and sinking carcasses.\nOxygen balance: Contribution to global oxygen levels through mixotrophic and photosynthetic activity."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#conservation-and-management",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#conservation-and-management",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Conservation and Management",
+    "text": "Conservation and Management\nProtecting zooplankton is fundamental to ocean conservation:\n\nPollution reduction: Minimizing plastic and chemical runoff that impairs reproduction.\nFisheries management: Ensuring forage fish harvests don’t deplete the food source for higher trophic levels.\nHabitat protection: Safeguarding nurseries like mangroves and seagrass beds where meroplankton thrive.\nGlobal monitoring: Supporting long-term datasets to track the impacts of ocean acidification."
+  },
+  {
+    "objectID": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#references",
+    "href": "lectures/13_zooplankton_behavior_reproduction_life_cycle.html#references",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production",
+    "href": "lectures/11_primary_production.html#primary-production",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production",
+    "text": "Primary Production\n\nPrimary production is the creation of new organic matter from inorganic substrates.\nThis organic matter serves as the base of the food web for most marine ecosystems.\nPrimary production generally refers to the process of photosynthesis, or the utilization of light energy to produce chemical energy."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-1",
+    "href": "lectures/11_primary_production.html#primary-production-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nThe photosynthesis process is undertaken by plants and algae according to the reaction below:\n\n\\[6CO_2 + 6H_2O \\xrightarrow[\\text{Chlorophyll}]{\\text{Light}} C_6H_{12}O_6 + 6O_2\\]\n\nHowever, primary production is also carried out by bacteria in the absence of light through chemosynthesis.\nInstead of light providing the energy for the reaction, the energy comes from the oxidation of inorganic materials, such as hydrogen sulfide on hydrothermal vents"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-2",
+    "href": "lectures/11_primary_production.html#primary-production-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nPrimary production in the ocean is carried out by marine plants i.e mangroves, seagrass, seaweed, and phytoplankton, with phytoplankton being the most important contributors to global primary production.\nThe greatest amount of primary production in the ocean comes from the phytoplankton\nThe total amount of organic material created by the producers is called the gross primary productivity, or total production."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-3",
+    "href": "lectures/11_primary_production.html#primary-production-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nHowever, the primary producers consume a portion of this organic matter themselves through respiration in order to sustain their life.\nSo, the total amount that is left to support the consumers in the ocean is called net production\n\n\\[Net~production=Gross~production – Respiration\\]\n\nThe net production is the amount of organic matter that is available to support the consumers in the ocean."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-4",
+    "href": "lectures/11_primary_production.html#primary-production-4",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nThe gross production is the total amount of organic matter created by the producers, while respiration is the amount of organic matter consumed by the producers themselves.\nGross production can be divided into two components; new production and regenerated production.\nNew production is supported by nutrients brought in from outside of the local ecosystem through processes such as upwelling or ocean currents.\nRegenerated production results from the recycling of nutrients within an ecosystem."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-5",
+    "href": "lectures/11_primary_production.html#primary-production-5",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nMost primary producers require nitrogen and phosphorus, which are available in the ocean as nitrate, nitrite, ammonia, and phosphate.\nThe abundances of these molecules and the intensity and quality of light exert a major influence on rates of production.\nThe two principal categories of producers (autotrophs) in the sea are phytoplankton and benthic microalgae and macroalgae."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#primary-production-6",
+    "href": "lectures/11_primary_production.html#primary-production-6",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Primary Production…",
+    "text": "Primary Production…\n\nBenthic plants grow only on the fringe of the world’s oceans and are estimated to produce only 5 to 10 percent of the total marine plant material in a year\nChemoautotrophs are the producers of the deep-sea vents."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#measurements-of-primary-production",
+    "href": "lectures/11_primary_production.html#measurements-of-primary-production",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Measurements of primary production",
+    "text": "Measurements of primary production\n\nPrimary productivity is usually determined by measuring the uptake of carbon dioxide or the output of oxygen.\nProduction rates are usually expressed as grams of organic carbon per unit area per unit time (\\(gC/m^2/yr\\))"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#oxygen-emission-method",
+    "href": "lectures/11_primary_production.html#oxygen-emission-method",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Oxygen emission method",
+    "text": "Oxygen emission method\n\nThe oxygen emission method is one of the commonly used procedures for measuring primary production in the ocean.\nThe method involves measuring the rate of oxygen production by phytoplankton as a result of photosynthesis."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-emission-method",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-emission-method",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen emission method",
+    "text": "Steps in oxygen emission method\n\nInitial oxygen measurement (O1): The concentration of dissolved oxygen in the ocean is first measured in-situ using oxygen probe (DO meter);\nIf the device is not available then the sample is collected, fixed and stored for later measurements in the laboratory"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nSampling:\n\nA water sample is collected from the ocean using two sampling bottle or Niskin bottle; a transparent bottle and a dark bottle.\nThe sample should be collected at a certain depth where photosynthesis is occurring and the water must not be too turbid.\nThe dark bottled sample will be used as a control in the experiment"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-1",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nIncubation:\n\nThe two water samples are placed in a dark, temperature-controlled incubator and exposed to light of a known intensity for a specific period of time (usually 1-24 hours).\nDuring this time, the phytoplankton in the transparent bottle will undergo photosynthesis and produce oxygen.\nThe phytoplankton in the dark bottle will not undergo photosynthesis, rather respiration due to insufficient light. So, they will consume the available oxygen in the sample"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-2",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nOxygen measurement:\n\nAfter the incubation period, the amount of dissolved oxygen in both the transparent bottle (O2) and dark bottle (O3) sample will be measured using a dissolved oxygen probe or titration method.\n\nOxygen correction:\n\nThe amount of oxygen produced by photosynthesis is calculated by subtracting the amount of oxygen consumed by respiration during the incubation period."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-3",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nThe components of primary production are calculated as follows:\nRespiration (R) \\(= O_1 - O_3\\)\nNet Primary Production (NPP) \\(= O_2 - O_1\\)\nGross Primary Production (GPP) \\(= NPP + R\\) (or \\(O_2 - O_3\\))"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-4",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-4",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nWhere;\n\\(O_1\\) =Initial oxygen concentration\n\\(O_2\\) = Amount of dissolved oxygen in transparent bottle after incubation\n\\(O_3\\) = Amount of dissolved oxygen in dark bottle after incubation"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-5",
+    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-5",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Steps in oxygen method…",
+    "text": "Steps in oxygen method…\nCalculation:\n\nThe rate of primary production is calculated as the amount of oxygen produced per unit of time (usually milligrams of oxygen per cubic meter of water per hour)."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations-on-primary-production",
+    "href": "lectures/11_primary_production.html#calculations-on-primary-production",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations on primary production",
+    "text": "Calculations on primary production\nQn1.\nIn a light-dark bottle experiment, the initial DO was 8 mg/L. After 24 hours, the light bottle had 10 mg/L DO, and the dark bottle had 6 mg/L DO. Calculate GPP, NPP, and R."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations",
+    "href": "lectures/11_primary_production.html#calculations",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations…",
+    "text": "Calculations…\nAnswer:\nRespiration (R) = Initial DO − Dark bottle DO = 8 − 6 = 2 mg/L/day\nNet Primary Production (NPP) = Light bottle DO − Initial DO = 10 − 8 = 2 mg/L/day\nGross Primary Production (GPP) = NPP + R = 2 + 2 = 4 mg/L/day"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations-1",
+    "href": "lectures/11_primary_production.html#calculations-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations…",
+    "text": "Calculations…\nQn2\nIf the oxygen evolution rate (Gross Production) in a phytoplankton sample is 0.5 mg O₂/L/h in light conditions and the respiration rate is 0.2 mg O₂/L/h, what is the net primary production rate?"
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations-2",
+    "href": "lectures/11_primary_production.html#calculations-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations…",
+    "text": "Calculations…\nAnswer:\nNPP = GPP − Respiration\n\n\\(0.5\\text{ mg O}_2/\\text{L/h} - 0.2\\text{ mg O}_2/\\text{L/h} = 0.3\\text{ mg O}_2/\\text{L/h}\\)\n\nThe net primary production rate is 0.3 mg O₂/L/h. This represents the actual biomass increase available to the next trophic level after the phytoplankton have met their own metabolic energy demands."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations-3",
+    "href": "lectures/11_primary_production.html#calculations-3",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations…",
+    "text": "Calculations…\nQn3\nA lake water sample showed an initial DO of 7.2 mg/L. After 6 hours in the light, DO increased to 8.4 mg/L, while in the dark, it decreased to 6.5 mg/L. Compute GPP, NPP, and R per day (assuming constant rates)."
+  },
+  {
+    "objectID": "lectures/11_primary_production.html#calculations-4",
+    "href": "lectures/11_primary_production.html#calculations-4",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Calculations…",
+    "text": "Calculations…\nAnswer:\nRespiration (R) = (Initial − Dark) × (24/6) = (7.2 − 6.5) × 4 = 2.8 mg/L/day\nNPP = (Light − Initial) × (24/6) = (8.4 − 7.2) × 4 = 4.8 mg/L/day\nGPP = NPP + R = 4.8 + 2.8 = 7.6 mg/L/day"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome-to-aq-224",
+    "href": "index.html#welcome-to-aq-224",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "",
+    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-objectives",
+    "href": "index.html#course-objectives",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nTo introduce students to the systematics of both phytoplankton and zooplankton; plankton sampling methods and determination of productivity; plankton ecology and productivity",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-synopsismodules",
+    "href": "index.html#course-synopsismodules",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course Synopsis/Modules",
+    "text": "Course Synopsis/Modules\n\nModule 1: Course Introduction\n\nIntroduction to plankton and their importance in aquatic ecosystems.\nClassification of Plankton\nDivision of the aquatic environment\n\n\n\nModule 2: Plankton Ecology\n\nSystematic and biology of phytoplankton and Zooplankton (holoplankton and meroplankton).\nAdaptation to the environment:\n\nStructural adaptations to floatation, aids of floatation\nCyclomorphosis, colour and transparency, bioluminescence\n\n\n\n\nModule 3: Plankton Productivity\n\nPrimary production in the aquatic environment.\nSecondary production and the food webs.\nBacterial production and the concept of the microbial loop.\nFactors controlling the distribution and productivity.\nNutrient regeneration and the role of zooplankton in nutrient cycling.\nTrophodynamic relationships.\nFeeding processes: rate of filtering, prey selection.\nZooplankton variations and the concept of indicator species.\nZoogeography of the holoplankton.\nVertical migration: seasonal, ontogenic and diel-vertical migration.\nSpatial and seasonal changes of phytoplankton and zooplankton.\n\n\n\nModule 4: Harmful Microalgae\n\nHarmful algal blooms (HABs): causes, effects, and management strategies.\nTypes of HABs\n\n\n\nModule 5: Sampling Methods and Laboratory Analysis\n\nMethods of measurement of biomass and primary production, bacterial production, and nitrogen fixation in the water column.\nQuantitative phytoplankton and zooplankton sampling; methods of collecting, fixing and preserving.\nLaboratory analyses of planktons.",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#key-textbooks",
+    "href": "index.html#key-textbooks",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Key Textbooks",
+    "text": "Key Textbooks\n\nEcology of Phytoplankton (Reynolds, 2006)\nZooplankton methodology manual (Harris et al., 2000)\nZooplankton of the Atlantic and Gulf Coasts (Boxshall, 2014)\nPlankton and Productivity in the Oceans (Raymont, 2014)",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "index.html#course-assessment",
+    "href": "index.html#course-assessment",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Course assessment",
+    "text": "Course assessment\n\nTest1 = 10 marks\nTest2 = 15 marks\nAssignments = 5 marks\nPracticals = 10 marks\nUniversity examination (UE) = 60 marks",
+    "crumbs": [
+      "Home",
+      "AQ 224 -- Plankton Systematics and Ecology"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#brown-tide",
+    "href": "lectures/10_types_of_HABs.html#brown-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Brown tide",
+    "text": "Brown tide\nCausative organisms:\n\nPrimarily caused by the rapid growth of specific species belonging to the class Pelagophyceae:\n\nAureococcus anophagefferens: Known for maintaining high growth efficiency even under nutrient limitation.\nAureomonas lagunensis: Tolerates wide temperature and salinity ranges, with accelerated growth at higher temperatures.\n\n\nCharacteristics:\n\nBrown tide algae do not produce toxins that directly harm humans or animals.\nThe name brown tide refers to the characteristic brownish coloration of the water caused by the abundance of algae."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#brown-tide-1",
+    "href": "lectures/10_types_of_HABs.html#brown-tide-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Brown tide…",
+    "text": "Brown tide…\n\nBrown tide"
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide",
+    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological effects of Brown tide",
+    "text": "Ecological effects of Brown tide\nReduced light penetration:\n\nHigh cell densities (up to \\(10^9\\) cells/L) significantly increase turbidity.\nShading inhibits the growth of submerged aquatic vegetation (SAV), particularly seagrasses like Zostera marina.\nLoss of seagrass leads to habitat degradation for juvenile fish and invertebrates."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-1",
+    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological effects of Brown tide…",
+    "text": "Ecological effects of Brown tide…\nImpact on shellfish (indirect toxicity):\n\nWhile non-toxic to humans, these algae interfere with the feeding mechanisms of filter-feeders.\nMechanical interference: High concentrations clog the cilia of shellfish (e.g., scallops and mussels).\nNutritional deficiency: Poor food quality leads to starvation, reduced growth, and mass recruitment failure in bivalve populations.\nTrophic inhibition: Reduced light penetration can inhibit the growth of other phytoplankton that shellfish depend on for food."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-2",
+    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological effects of Brown tide…",
+    "text": "Ecological effects of Brown tide…\nAltered food web dynamics:\n\nBrown tide blooms alter the composition of the plankton community, causing cascading effects.\nZooplankton inhibition: The small size and poor nutritional quality of Aureococcus can inhibit grazing by copepods.\nChanges in plankton populations affect the abundance and distribution of higher trophic levels (fish and marine mammals) that rely on them for food."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#economic-effects-of-brown-tide",
+    "href": "lectures/10_types_of_HABs.html#economic-effects-of-brown-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Economic effects of Brown tide",
+    "text": "Economic effects of Brown tide\n\nFisheries and aquaculture: Significant financial losses for fishermen and shellfish farmers due to mass recruitment failure and reduced growth in bivalve populations (e.g., scallops and mussels).\nIndustry closures: Mandatory closures of shellfish harvesting areas due to contamination concerns and population declines.\nTourism and recreation: The characteristic brownish discoloration and loss of seagrass habitats can negatively impact coastal tourism and recreational activities.\nCascading costs: Economic impacts extend to businesses reliant on healthy marine ecosystems, such as local seafood markets and tourism-dependent services."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#red-tide",
+    "href": "lectures/10_types_of_HABs.html#red-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Red tide",
+    "text": "Red tide\nCausative organisms:\n\nRed tides are phenomena primarily caused by dinoflagellates.\nCommon species include Karenia brevis (prevalent in the Gulf of Mexico) and Alexandrium spp.\nThese organisms produce potent toxins such as brevetoxins and saxitoxins."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#characteristics-of-red-tide",
+    "href": "lectures/10_types_of_HABs.html#characteristics-of-red-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Characteristics of red tide",
+    "text": "Characteristics of red tide\n\nDespite the name, water discoloration can range from reddish-brown to yellow or green, depending on the pigments of the dominant species.\nThe water often appears murky or “rusty” due to extremely high cell concentrations.\nToxins can bioaccumulate through the food web, eventually reaching humans via contaminated seafood."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#red-tide-1",
+    "href": "lectures/10_types_of_HABs.html#red-tide-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Red tide…",
+    "text": "Red tide…\n\nRed tide"
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#effects-of-red-tide",
+    "href": "lectures/10_types_of_HABs.html#effects-of-red-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Effects of red tide",
+    "text": "Effects of red tide\nToxic effects:\n\nThe toxins produced by red tide algae can have harmful effects on marine life.\n\nDirect mortality: Toxins can kill fish, shellfish, and other marine organisms through acute poisoning.\nIndirect mortality: Massive blooms can cause oxygen depletion (hypoxia) in the water column during decomposition, leading to suffocation of marine life.\nBioaccumulation: Marine mammals, seabirds, and turtles can be affected or killed after consuming contaminated prey, moving toxins up the food chain."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#effects-of-red-tide-1",
+    "href": "lectures/10_types_of_HABs.html#effects-of-red-tide-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Effects of red tide…",
+    "text": "Effects of red tide…\nHuman health risks:\n\nExposure routes: Toxins pose risks through the consumption of contaminated seafood or the inhalation of aerosolized toxins (common with Karenia brevis).\nSymptom range: Ingestion can cause nausea, vomiting, diarrhea, and severe neurological effects.\nSpecific syndromes: Red tides are frequently associated with Paralytic Shellfish Poisoning (PSP) and Neurotoxic Shellfish Poisoning (NSP)."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#paralytic-shellfish-poisoning-psp",
+    "href": "lectures/10_types_of_HABs.html#paralytic-shellfish-poisoning-psp",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Paralytic Shellfish Poisoning (PSP)",
+    "text": "Paralytic Shellfish Poisoning (PSP)\n\nCausative organisms: Produced by dinoflagellate species including Alexandrium spp. (e.g., A. tamarense, A. catenella), Gymnodinium catenatum, and Pyrodinium bahamense.\nTransmission: Induced via consuming contaminated bivalve molluscs (mussels, clams), crustacea, or gastropods that have filtered or fed on toxic cells.\nSeverity: A serious, potentially fatal illness characterized by rapid onset of neurological symptoms."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#psp",
+    "href": "lectures/10_types_of_HABs.html#psp",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "PSP…",
+    "text": "PSP…\nPSP toxin(s)\n\nThe primary biotoxin responsible is SAXITOXIN (STX).\nIt is considered one of the most potent natural neurotoxins known.\nMechanism: It binds to voltage-gated sodium channels in nerve cells, blocking nerve impulse transmission and leading to muscle paralysis.\nCommon derivatives include neosaxitoxin (neoSTX), gonyautoxins (GTX), and decarbamoylsaxitoxin (dcSTX), which vary in toxicity levels."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#psp-symptoms",
+    "href": "lectures/10_types_of_HABs.html#psp-symptoms",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "PSP Symptoms",
+    "text": "PSP Symptoms\n\nEarly signs: Tingling or numbness in the face, lips, tongue, and extremities.\nProgression: Followed by headache, dizziness, nausea, and loss of muscle coordination (ataxia).\nSevere cases: Progressive muscular paralysis and respiratory failure.\nFatality: Death can occur within 2 to 12 hours after consumption due to respiratory arrest."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#psp-symptoms-1",
+    "href": "lectures/10_types_of_HABs.html#psp-symptoms-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "PSP Symptoms…",
+    "text": "PSP Symptoms…\n\nRecovery: If the dose is low and medical support (like mechanical ventilation) is provided, symptoms typically diminish within 9 hours.\nPrognosis: Patients who survive the first 24 hours have a high probability of a full and rapid recovery, as the toxin is eventually excreted."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp",
+    "href": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Diarrhetic Shellfish Poisoning (DSP)",
+    "text": "Diarrhetic Shellfish Poisoning (DSP)\n\nDiarrhetic Shellfish Poisoning (DSP) is a type of foodborne illness caused by consuming shellfish contaminated with lipophilic toxins produced by harmful algal species, particularly dinoflagellates."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp-1",
+    "href": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Diarrhetic Shellfish Poisoning (DSP)",
+    "text": "Diarrhetic Shellfish Poisoning (DSP)\nCausative organisms & toxins:\n\nMain toxin producers include:\n\nDinophysis spp. (e.g., D. acuminata, D. fortii)\nProrocentrum spp. (e.g., P. lima)\n\nToxins involved are:\n\nOkadaic Acid (OA): The most common DSP toxin.\nDinophysistoxins (DTXs).\nPectenotoxins (PTXs): Often co-occur, though less diarrheagenic."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#dsp",
+    "href": "lectures/10_types_of_HABs.html#dsp",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "DSP…",
+    "text": "DSP…\nMechanism of action:\n\nThese toxins are lipophilic and inhibit protein phosphatases, leading to hyperphosphorylation of proteins in intestinal cells, resulting in intestinal fluid secretion and severe diarrhea."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#symptoms-of-dsp",
+    "href": "lectures/10_types_of_HABs.html#symptoms-of-dsp",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Symptoms of DSP",
+    "text": "Symptoms of DSP\nClinical presentation:\n\nOnset: Symptoms typically begin between 30 minutes to 12 hours after ingestion.\nPrimary symptoms:\n\nSevere diarrhea (most characteristic sign).\nNausea and vomiting.\nAbdominal cramps.\nMild fever (rare)."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#symptoms-of-dsp-1",
+    "href": "lectures/10_types_of_HABs.html#symptoms-of-dsp-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Symptoms of DSP…",
+    "text": "Symptoms of DSP…\n\nDuration: Symptoms usually resolve within 3 days without long-term sequelae.\n\nSources of contamination:\n\nPrimarily through the consumption of affected filter-feeding shellfish such as mussels, clams, oysters, and scallops that accumulate toxins in their digestive glands."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#economic-and-environmental-impacts",
+    "href": "lectures/10_types_of_HABs.html#economic-and-environmental-impacts",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Economic and Environmental Impacts",
+    "text": "Economic and Environmental Impacts\nEconomic impacts:\n\nFisheries & Aquaculture: Mass fish kills and mandatory shellfish closures lead to direct financial losses for fishermen and farmers.\nTourism: Beach closures and the presence of dead marine life deter visitors, impacting hotels, restaurants, and local businesses.\nPublic Health Costs: Increased medical expenses and lost workdays due to respiratory issues or seafood poisoning.\nManagement Costs: Expenses related to water quality monitoring, toxin testing, and carcass cleanup."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#environmental-impacts",
+    "href": "lectures/10_types_of_HABs.html#environmental-impacts",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Environmental Impacts",
+    "text": "Environmental Impacts\n}\n\nRed tide blooms can disrupt marine ecosystems by causing mass mortalities of fish, shellfish, and other marine organisms.\nThey can also harm coral reefs and seagrass beds by reducing light penetration and depleting oxygen levels in the water."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#monitoring-and-management-of-red-tide",
+    "href": "lectures/10_types_of_HABs.html#monitoring-and-management-of-red-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Monitoring and Management of red tide",
+    "text": "Monitoring and Management of red tide\n\nMonitoring programs are essential for tracking the development and movement of red tide blooms and assessing their potential impacts on human health and the environment.\nManagement strategies may include the closure of shellfish harvesting areas, public health advisories, and research into methods for mitigating or preventing red tide blooms."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#green-tide",
+    "href": "lectures/10_types_of_HABs.html#green-tide",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Green tide",
+    "text": "Green tide\n\nA green tide refers to a massive proliferation of green phytoplankton in marine or freshwater ecosystems, leading to visible green discoloration of the water.\nThese events are often caused by nutrient enrichment (eutrophication), particularly from excess nitrogen and phosphorus from agricultural runoff, sewage, or industrial discharges."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#green-tide-1",
+    "href": "lectures/10_types_of_HABs.html#green-tide-1",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Green tide…",
+    "text": "Green tide…\n\nIt leads to overgrowth of cyanobacteria (blue-green algae) particularly Microcystis, Spirogyra.\nGreen tide blooms can give the water a greenish colour, hence the name.\nThe algae may form dense mats or carpets on the water surface or accumulate along shorelines, especially in areas with low water circulation."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#green-tide-2",
+    "href": "lectures/10_types_of_HABs.html#green-tide-2",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Green tide…",
+    "text": "Green tide…"
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#causes-effects",
+    "href": "lectures/10_types_of_HABs.html#causes-effects",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Causes & effects",
+    "text": "Causes & effects\n\nEutrophication (excessive nutrients like nitrogen & phosphorus) particularly from agricultural runoff, sewage discharges, and urban stormwater runoff.\nWarm temperatures and calm water conditions.\nSome species may produce toxins harmful to humans and animals.\nit may also cause skin irritation, respiratory issues, and poisoning if ingested."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#ecological-impacts",
+    "href": "lectures/10_types_of_HABs.html#ecological-impacts",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "Ecological Impacts",
+    "text": "Ecological Impacts\n\nNot all green algae are toxic, excessive growth of green tide can have negative ecological impacts.\nDense mats of algae can block sunlight from reaching submerged aquatic vegetation, such as seagrasses, which are important habitats for many marine species.\nThis reduction in light penetration can disrupt the balance of the ecosystem and lead to declines in biodiversity."
+  },
+  {
+    "objectID": "lectures/10_types_of_HABs.html#references",
+    "href": "lectures/10_types_of_HABs.html#references",
+    "title": "AQ 224 – Plankton Systematics and Ecology",
+    "section": "References",
+    "text": "References"
+  },
+  {
     "objectID": "lectures/12_zooplankton_taxonomy.html#what-is-zooplankton",
     "href": "lectures/12_zooplankton_taxonomy.html#what-is-zooplankton",
     "title": "AQ 224 – Plankton Systematics and Ecology",
@@ -1461,436 +2150,6 @@
     "title": "AQ 224 – Plankton Systematics and Ecology",
     "section": "Class Polychaeta…",
     "text": "Class Polychaeta…\n\n\n\nReef briste worms"
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#brown-tide",
-    "href": "lectures/10_types_of_HABs.html#brown-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Brown tide",
-    "text": "Brown tide\nCausative organisms:\n\nPrimarily caused by the rapid growth of specific species belonging to the class Pelagophyceae:\n\nAureococcus anophagefferens: Known for maintaining high growth efficiency even under nutrient limitation.\nAureomonas lagunensis: Tolerates wide temperature and salinity ranges, with accelerated growth at higher temperatures.\n\n\nCharacteristics:\n\nBrown tide algae do not produce toxins that directly harm humans or animals.\nThe name brown tide refers to the characteristic brownish coloration of the water caused by the abundance of algae."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#brown-tide-1",
-    "href": "lectures/10_types_of_HABs.html#brown-tide-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Brown tide…",
-    "text": "Brown tide…\n\nBrown tide"
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide",
-    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Ecological effects of Brown tide",
-    "text": "Ecological effects of Brown tide\nReduced light penetration:\n\nHigh cell densities (up to \\(10^9\\) cells/L) significantly increase turbidity.\nShading inhibits the growth of submerged aquatic vegetation (SAV), particularly seagrasses like Zostera marina.\nLoss of seagrass leads to habitat degradation for juvenile fish and invertebrates."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-1",
-    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Ecological effects of Brown tide…",
-    "text": "Ecological effects of Brown tide…\nImpact on shellfish (indirect toxicity):\n\nWhile non-toxic to humans, these algae interfere with the feeding mechanisms of filter-feeders.\nMechanical interference: High concentrations clog the cilia of shellfish (e.g., scallops and mussels).\nNutritional deficiency: Poor food quality leads to starvation, reduced growth, and mass recruitment failure in bivalve populations.\nTrophic inhibition: Reduced light penetration can inhibit the growth of other phytoplankton that shellfish depend on for food."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-2",
-    "href": "lectures/10_types_of_HABs.html#ecological-effects-of-brown-tide-2",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Ecological effects of Brown tide…",
-    "text": "Ecological effects of Brown tide…\nAltered food web dynamics:\n\nBrown tide blooms alter the composition of the plankton community, causing cascading effects.\nZooplankton inhibition: The small size and poor nutritional quality of Aureococcus can inhibit grazing by copepods.\nChanges in plankton populations affect the abundance and distribution of higher trophic levels (fish and marine mammals) that rely on them for food."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#economic-effects-of-brown-tide",
-    "href": "lectures/10_types_of_HABs.html#economic-effects-of-brown-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Economic effects of Brown tide",
-    "text": "Economic effects of Brown tide\n\nFisheries and aquaculture: Significant financial losses for fishermen and shellfish farmers due to mass recruitment failure and reduced growth in bivalve populations (e.g., scallops and mussels).\nIndustry closures: Mandatory closures of shellfish harvesting areas due to contamination concerns and population declines.\nTourism and recreation: The characteristic brownish discoloration and loss of seagrass habitats can negatively impact coastal tourism and recreational activities.\nCascading costs: Economic impacts extend to businesses reliant on healthy marine ecosystems, such as local seafood markets and tourism-dependent services."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#red-tide",
-    "href": "lectures/10_types_of_HABs.html#red-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Red tide",
-    "text": "Red tide\nCausative organisms:\n\nRed tides are phenomena primarily caused by dinoflagellates.\nCommon species include Karenia brevis (prevalent in the Gulf of Mexico) and Alexandrium spp.\nThese organisms produce potent toxins such as brevetoxins and saxitoxins."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#characteristics-of-red-tide",
-    "href": "lectures/10_types_of_HABs.html#characteristics-of-red-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Characteristics of red tide",
-    "text": "Characteristics of red tide\n\nDespite the name, water discoloration can range from reddish-brown to yellow or green, depending on the pigments of the dominant species.\nThe water often appears murky or “rusty” due to extremely high cell concentrations.\nToxins can bioaccumulate through the food web, eventually reaching humans via contaminated seafood."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#red-tide-1",
-    "href": "lectures/10_types_of_HABs.html#red-tide-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Red tide…",
-    "text": "Red tide…\n\nRed tide"
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#effects-of-red-tide",
-    "href": "lectures/10_types_of_HABs.html#effects-of-red-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Effects of red tide",
-    "text": "Effects of red tide\nToxic effects:\n\nThe toxins produced by red tide algae can have harmful effects on marine life.\n\nDirect mortality: Toxins can kill fish, shellfish, and other marine organisms through acute poisoning.\nIndirect mortality: Massive blooms can cause oxygen depletion (hypoxia) in the water column during decomposition, leading to suffocation of marine life.\nBioaccumulation: Marine mammals, seabirds, and turtles can be affected or killed after consuming contaminated prey, moving toxins up the food chain."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#effects-of-red-tide-1",
-    "href": "lectures/10_types_of_HABs.html#effects-of-red-tide-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Effects of red tide…",
-    "text": "Effects of red tide…\nHuman health risks:\n\nExposure routes: Toxins pose risks through the consumption of contaminated seafood or the inhalation of aerosolized toxins (common with Karenia brevis).\nSymptom range: Ingestion can cause nausea, vomiting, diarrhea, and severe neurological effects.\nSpecific syndromes: Red tides are frequently associated with Paralytic Shellfish Poisoning (PSP) and Neurotoxic Shellfish Poisoning (NSP)."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#paralytic-shellfish-poisoning-psp",
-    "href": "lectures/10_types_of_HABs.html#paralytic-shellfish-poisoning-psp",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Paralytic Shellfish Poisoning (PSP)",
-    "text": "Paralytic Shellfish Poisoning (PSP)\n\nCausative organisms: Produced by dinoflagellate species including Alexandrium spp. (e.g., A. tamarense, A. catenella), Gymnodinium catenatum, and Pyrodinium bahamense.\nTransmission: Induced via consuming contaminated bivalve molluscs (mussels, clams), crustacea, or gastropods that have filtered or fed on toxic cells.\nSeverity: A serious, potentially fatal illness characterized by rapid onset of neurological symptoms."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#psp",
-    "href": "lectures/10_types_of_HABs.html#psp",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "PSP…",
-    "text": "PSP…\nPSP toxin(s)\n\nThe primary biotoxin responsible is SAXITOXIN (STX).\nIt is considered one of the most potent natural neurotoxins known.\nMechanism: It binds to voltage-gated sodium channels in nerve cells, blocking nerve impulse transmission and leading to muscle paralysis.\nCommon derivatives include neosaxitoxin (neoSTX), gonyautoxins (GTX), and decarbamoylsaxitoxin (dcSTX), which vary in toxicity levels."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#psp-symptoms",
-    "href": "lectures/10_types_of_HABs.html#psp-symptoms",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "PSP Symptoms",
-    "text": "PSP Symptoms\n\nEarly signs: Tingling or numbness in the face, lips, tongue, and extremities.\nProgression: Followed by headache, dizziness, nausea, and loss of muscle coordination (ataxia).\nSevere cases: Progressive muscular paralysis and respiratory failure.\nFatality: Death can occur within 2 to 12 hours after consumption due to respiratory arrest."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#psp-symptoms-1",
-    "href": "lectures/10_types_of_HABs.html#psp-symptoms-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "PSP Symptoms…",
-    "text": "PSP Symptoms…\n\nRecovery: If the dose is low and medical support (like mechanical ventilation) is provided, symptoms typically diminish within 9 hours.\nPrognosis: Patients who survive the first 24 hours have a high probability of a full and rapid recovery, as the toxin is eventually excreted."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp",
-    "href": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Diarrhetic Shellfish Poisoning (DSP)",
-    "text": "Diarrhetic Shellfish Poisoning (DSP)\n\nDiarrhetic Shellfish Poisoning (DSP) is a type of foodborne illness caused by consuming shellfish contaminated with lipophilic toxins produced by harmful algal species, particularly dinoflagellates."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp-1",
-    "href": "lectures/10_types_of_HABs.html#diarrhetic-shellfish-poisoning-dsp-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Diarrhetic Shellfish Poisoning (DSP)",
-    "text": "Diarrhetic Shellfish Poisoning (DSP)\nCausative organisms & toxins:\n\nMain toxin producers include:\n\nDinophysis spp. (e.g., D. acuminata, D. fortii)\nProrocentrum spp. (e.g., P. lima)\n\nToxins involved are:\n\nOkadaic Acid (OA): The most common DSP toxin.\nDinophysistoxins (DTXs).\nPectenotoxins (PTXs): Often co-occur, though less diarrheagenic."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#dsp",
-    "href": "lectures/10_types_of_HABs.html#dsp",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "DSP…",
-    "text": "DSP…\nMechanism of action:\n\nThese toxins are lipophilic and inhibit protein phosphatases, leading to hyperphosphorylation of proteins in intestinal cells, resulting in intestinal fluid secretion and severe diarrhea."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#symptoms-of-dsp",
-    "href": "lectures/10_types_of_HABs.html#symptoms-of-dsp",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Symptoms of DSP",
-    "text": "Symptoms of DSP\nClinical presentation:\n\nOnset: Symptoms typically begin between 30 minutes to 12 hours after ingestion.\nPrimary symptoms:\n\nSevere diarrhea (most characteristic sign).\nNausea and vomiting.\nAbdominal cramps.\nMild fever (rare)."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#symptoms-of-dsp-1",
-    "href": "lectures/10_types_of_HABs.html#symptoms-of-dsp-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Symptoms of DSP…",
-    "text": "Symptoms of DSP…\n\nDuration: Symptoms usually resolve within 3 days without long-term sequelae.\n\nSources of contamination:\n\nPrimarily through the consumption of affected filter-feeding shellfish such as mussels, clams, oysters, and scallops that accumulate toxins in their digestive glands."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#economic-and-environmental-impacts",
-    "href": "lectures/10_types_of_HABs.html#economic-and-environmental-impacts",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Economic and Environmental Impacts",
-    "text": "Economic and Environmental Impacts\nEconomic impacts:\n\nFisheries & Aquaculture: Mass fish kills and mandatory shellfish closures lead to direct financial losses for fishermen and farmers.\nTourism: Beach closures and the presence of dead marine life deter visitors, impacting hotels, restaurants, and local businesses.\nPublic Health Costs: Increased medical expenses and lost workdays due to respiratory issues or seafood poisoning.\nManagement Costs: Expenses related to water quality monitoring, toxin testing, and carcass cleanup."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#environmental-impacts",
-    "href": "lectures/10_types_of_HABs.html#environmental-impacts",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Environmental Impacts",
-    "text": "Environmental Impacts\n}\n\nRed tide blooms can disrupt marine ecosystems by causing mass mortalities of fish, shellfish, and other marine organisms.\nThey can also harm coral reefs and seagrass beds by reducing light penetration and depleting oxygen levels in the water."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#monitoring-and-management-of-red-tide",
-    "href": "lectures/10_types_of_HABs.html#monitoring-and-management-of-red-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Monitoring and Management of red tide",
-    "text": "Monitoring and Management of red tide\n\nMonitoring programs are essential for tracking the development and movement of red tide blooms and assessing their potential impacts on human health and the environment.\nManagement strategies may include the closure of shellfish harvesting areas, public health advisories, and research into methods for mitigating or preventing red tide blooms."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#green-tide",
-    "href": "lectures/10_types_of_HABs.html#green-tide",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Green tide",
-    "text": "Green tide\n\nA green tide refers to a massive proliferation of green phytoplankton in marine or freshwater ecosystems, leading to visible green discoloration of the water.\nThese events are often caused by nutrient enrichment (eutrophication), particularly from excess nitrogen and phosphorus from agricultural runoff, sewage, or industrial discharges."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#green-tide-1",
-    "href": "lectures/10_types_of_HABs.html#green-tide-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Green tide…",
-    "text": "Green tide…\n\nIt leads to overgrowth of cyanobacteria (blue-green algae) particularly Microcystis, Spirogyra.\nGreen tide blooms can give the water a greenish colour, hence the name.\nThe algae may form dense mats or carpets on the water surface or accumulate along shorelines, especially in areas with low water circulation."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#green-tide-2",
-    "href": "lectures/10_types_of_HABs.html#green-tide-2",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Green tide…",
-    "text": "Green tide…"
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#causes-effects",
-    "href": "lectures/10_types_of_HABs.html#causes-effects",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Causes & effects",
-    "text": "Causes & effects\n\nEutrophication (excessive nutrients like nitrogen & phosphorus) particularly from agricultural runoff, sewage discharges, and urban stormwater runoff.\nWarm temperatures and calm water conditions.\nSome species may produce toxins harmful to humans and animals.\nit may also cause skin irritation, respiratory issues, and poisoning if ingested."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#ecological-impacts",
-    "href": "lectures/10_types_of_HABs.html#ecological-impacts",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Ecological Impacts",
-    "text": "Ecological Impacts\n\nNot all green algae are toxic, excessive growth of green tide can have negative ecological impacts.\nDense mats of algae can block sunlight from reaching submerged aquatic vegetation, such as seagrasses, which are important habitats for many marine species.\nThis reduction in light penetration can disrupt the balance of the ecosystem and lead to declines in biodiversity."
-  },
-  {
-    "objectID": "lectures/10_types_of_HABs.html#references",
-    "href": "lectures/10_types_of_HABs.html#references",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "References",
-    "text": "References"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "index.html#welcome-to-aq-224",
-    "href": "index.html#welcome-to-aq-224",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "",
-    "text": "This course provides fundamentals of taxonomy, ecology, and importance of plankton in aquatic ecosystems. Students will learn about the diversity of planktonic organisms, their roles in food webs, and methods for studying plankton communities.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "index.html#course-objectives",
-    "href": "index.html#course-objectives",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course Objectives",
-    "text": "Course Objectives\nTo introduce students to the systematics of both phytoplankton and zooplankton; plankton sampling methods and determination of productivity; plankton ecology and productivity",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "index.html#course-synopsismodules",
-    "href": "index.html#course-synopsismodules",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course Synopsis/Modules",
-    "text": "Course Synopsis/Modules\n\nModule 1: Course Introduction\n\nIntroduction to plankton and their importance in aquatic ecosystems.\nClassification of Plankton\nDivision of the aquatic environment\n\n\n\nModule 2: Plankton Ecology\n\nSystematic and biology of phytoplankton and Zooplankton (holoplankton and meroplankton).\nAdaptation to the environment:\n\nStructural adaptations to floatation, aids of floatation\nCyclomorphosis, colour and transparency, bioluminescence\n\n\n\n\nModule 3: Plankton Productivity\n\nPrimary production in the aquatic environment.\nSecondary production and the food webs.\nBacterial production and the concept of the microbial loop.\nFactors controlling the distribution and productivity.\nNutrient regeneration and the role of zooplankton in nutrient cycling.\nTrophodynamic relationships.\nFeeding processes: rate of filtering, prey selection.\nZooplankton variations and the concept of indicator species.\nZoogeography of the holoplankton.\nVertical migration: seasonal, ontogenic and diel-vertical migration.\nSpatial and seasonal changes of phytoplankton and zooplankton.\n\n\n\nModule 4: Harmful Microalgae\n\nHarmful algal blooms (HABs): causes, effects, and management strategies.\nTypes of HABs\n\n\n\nModule 5: Sampling Methods and Laboratory Analysis\n\nMethods of measurement of biomass and primary production, bacterial production, and nitrogen fixation in the water column.\nQuantitative phytoplankton and zooplankton sampling; methods of collecting, fixing and preserving.\nLaboratory analyses of planktons.",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "index.html#key-textbooks",
-    "href": "index.html#key-textbooks",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Key Textbooks",
-    "text": "Key Textbooks\n\nEcology of Phytoplankton (Reynolds, 2006)\nZooplankton methodology manual (Harris et al., 2000)\nZooplankton of the Atlantic and Gulf Coasts (Boxshall, 2014)\nPlankton and Productivity in the Oceans (Raymont, 2014)",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "index.html#course-assessment",
-    "href": "index.html#course-assessment",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Course assessment",
-    "text": "Course assessment\n\nTest1 = 10 marks\nTest2 = 15 marks\nAssignments = 5 marks\nPracticals = 10 marks\nUniversity examination (UE) = 60 marks",
-    "crumbs": [
-      "Home",
-      "AQ 224 -- Plankton Systematics and Ecology"
-    ]
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production",
-    "href": "lectures/11_primary_production.html#primary-production",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production",
-    "text": "Primary Production\n\nPrimary production is the creation of new organic matter from inorganic substrates.\nThis organic matter serves as the base of the food web for most marine ecosystems.\nPrimary production generally refers to the process of photosynthesis, or the utilization of light energy to produce chemical energy."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-1",
-    "href": "lectures/11_primary_production.html#primary-production-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nThe photosynthesis process is undertaken by plants and algae according to the reaction below:\n\n\\[6CO_2 + 6H_2O \\xrightarrow[\\text{Chlorophyll}]{\\text{Light}} C_6H_{12}O_6 + 6O_2\\]\n\nHowever, primary production is also carried out by bacteria in the absence of light through chemosynthesis.\nInstead of light providing the energy for the reaction, the energy comes from the oxidation of inorganic materials, such as hydrogen sulfide on hydrothermal vents"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-2",
-    "href": "lectures/11_primary_production.html#primary-production-2",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nPrimary production in the ocean is carried out by marine plants i.e mangroves, seagrass, seaweed, and phytoplankton, with phytoplankton being the most important contributors to global primary production.\nThe greatest amount of primary production in the ocean comes from the phytoplankton\nThe total amount of organic material created by the producers is called the gross primary productivity, or total production."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-3",
-    "href": "lectures/11_primary_production.html#primary-production-3",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nHowever, the primary producers consume a portion of this organic matter themselves through respiration in order to sustain their life.\nSo, the total amount that is left to support the consumers in the ocean is called net production\n\n\\[Net~production=Gross~production – Respiration\\]\n\nThe net production is the amount of organic matter that is available to support the consumers in the ocean."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-4",
-    "href": "lectures/11_primary_production.html#primary-production-4",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nThe gross production is the total amount of organic matter created by the producers, while respiration is the amount of organic matter consumed by the producers themselves.\nGross production can be divided into two components; new production and regenerated production.\nNew production is supported by nutrients brought in from outside of the local ecosystem through processes such as upwelling or ocean currents.\nRegenerated production results from the recycling of nutrients within an ecosystem."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-5",
-    "href": "lectures/11_primary_production.html#primary-production-5",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nMost primary producers require nitrogen and phosphorus, which are available in the ocean as nitrate, nitrite, ammonia, and phosphate.\nThe abundances of these molecules and the intensity and quality of light exert a major influence on rates of production.\nThe two principal categories of producers (autotrophs) in the sea are phytoplankton and benthic microalgae and macroalgae."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#primary-production-6",
-    "href": "lectures/11_primary_production.html#primary-production-6",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Primary Production…",
-    "text": "Primary Production…\n\nBenthic plants grow only on the fringe of the world’s oceans and are estimated to produce only 5 to 10 percent of the total marine plant material in a year\nChemoautotrophs are the producers of the deep-sea vents."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#measurements-of-primary-production",
-    "href": "lectures/11_primary_production.html#measurements-of-primary-production",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Measurements of primary production",
-    "text": "Measurements of primary production\n\nPrimary productivity is usually determined by measuring the uptake of carbon dioxide or the output of oxygen.\nProduction rates are usually expressed as grams of organic carbon per unit area per unit time (\\(gC/m^2/yr\\))"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#oxygen-emission-method",
-    "href": "lectures/11_primary_production.html#oxygen-emission-method",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Oxygen emission method",
-    "text": "Oxygen emission method\n\nThe oxygen emission method is one of the commonly used procedures for measuring primary production in the ocean.\nThe method involves measuring the rate of oxygen production by phytoplankton as a result of photosynthesis."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-emission-method",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-emission-method",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen emission method",
-    "text": "Steps in oxygen emission method\n\nInitial oxygen measurement (O1): The concentration of dissolved oxygen in the ocean is first measured in-situ using oxygen probe (DO meter);\nIf the device is not available then the sample is collected, fixed and stored for later measurements in the laboratory"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nSampling:\n\nA water sample is collected from the ocean using two sampling bottle or Niskin bottle; a transparent bottle and a dark bottle.\nThe sample should be collected at a certain depth where photosynthesis is occurring and the water must not be too turbid.\nThe dark bottled sample will be used as a control in the experiment"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-1",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nIncubation:\n\nThe two water samples are placed in a dark, temperature-controlled incubator and exposed to light of a known intensity for a specific period of time (usually 1-24 hours).\nDuring this time, the phytoplankton in the transparent bottle will undergo photosynthesis and produce oxygen.\nThe phytoplankton in the dark bottle will not undergo photosynthesis, rather respiration due to insufficient light. So, they will consume the available oxygen in the sample"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-2",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-2",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nOxygen measurement:\n\nAfter the incubation period, the amount of dissolved oxygen in both the transparent bottle (O2) and dark bottle (O3) sample will be measured using a dissolved oxygen probe or titration method.\n\nOxygen correction:\n\nThe amount of oxygen produced by photosynthesis is calculated by subtracting the amount of oxygen consumed by respiration during the incubation period."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-3",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-3",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nThe components of primary production are calculated as follows:\nRespiration (R) \\(= O_1 - O_3\\)\nNet Primary Production (NPP) \\(= O_2 - O_1\\)\nGross Primary Production (GPP) \\(= NPP + R\\) (or \\(O_2 - O_3\\))"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-4",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-4",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nWhere;\n\\(O_1\\) =Initial oxygen concentration\n\\(O_2\\) = Amount of dissolved oxygen in transparent bottle after incubation\n\\(O_3\\) = Amount of dissolved oxygen in dark bottle after incubation"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#steps-in-oxygen-method-5",
-    "href": "lectures/11_primary_production.html#steps-in-oxygen-method-5",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Steps in oxygen method…",
-    "text": "Steps in oxygen method…\nCalculation:\n\nThe rate of primary production is calculated as the amount of oxygen produced per unit of time (usually milligrams of oxygen per cubic meter of water per hour)."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations-on-primary-production",
-    "href": "lectures/11_primary_production.html#calculations-on-primary-production",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations on primary production",
-    "text": "Calculations on primary production\nQn1.\nIn a light-dark bottle experiment, the initial DO was 8 mg/L. After 24 hours, the light bottle had 10 mg/L DO, and the dark bottle had 6 mg/L DO. Calculate GPP, NPP, and R."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations",
-    "href": "lectures/11_primary_production.html#calculations",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations…",
-    "text": "Calculations…\nAnswer:\nRespiration (R) = Initial DO − Dark bottle DO = 8 − 6 = 2 mg/L/day\nNet Primary Production (NPP) = Light bottle DO − Initial DO = 10 − 8 = 2 mg/L/day\nGross Primary Production (GPP) = NPP + R = 2 + 2 = 4 mg/L/day"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations-1",
-    "href": "lectures/11_primary_production.html#calculations-1",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations…",
-    "text": "Calculations…\nQn2\nIf the oxygen evolution rate (Gross Production) in a phytoplankton sample is 0.5 mg O₂/L/h in light conditions and the respiration rate is 0.2 mg O₂/L/h, what is the net primary production rate?"
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations-2",
-    "href": "lectures/11_primary_production.html#calculations-2",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations…",
-    "text": "Calculations…\nAnswer:\nNPP = GPP − Respiration\n\n\\(0.5\\text{ mg O}_2/\\text{L/h} - 0.2\\text{ mg O}_2/\\text{L/h} = 0.3\\text{ mg O}_2/\\text{L/h}\\)\n\nThe net primary production rate is 0.3 mg O₂/L/h. This represents the actual biomass increase available to the next trophic level after the phytoplankton have met their own metabolic energy demands."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations-3",
-    "href": "lectures/11_primary_production.html#calculations-3",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations…",
-    "text": "Calculations…\nQn3\nA lake water sample showed an initial DO of 7.2 mg/L. After 6 hours in the light, DO increased to 8.4 mg/L, while in the dark, it decreased to 6.5 mg/L. Compute GPP, NPP, and R per day (assuming constant rates)."
-  },
-  {
-    "objectID": "lectures/11_primary_production.html#calculations-4",
-    "href": "lectures/11_primary_production.html#calculations-4",
-    "title": "AQ 224 – Plankton Systematics and Ecology",
-    "section": "Calculations…",
-    "text": "Calculations…\nAnswer:\nRespiration (R) = (Initial − Dark) × (24/6) = (7.2 − 6.5) × 4 = 2.8 mg/L/day\nNPP = (Light − Initial) × (24/6) = (8.4 − 7.2) × 4 = 4.8 mg/L/day\nGPP = NPP + R = 4.8 + 2.8 = 7.6 mg/L/day"
   },
   {
     "objectID": "lectures/1_intro.html#plankton",

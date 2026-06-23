@@ -37,6 +37,8 @@ website:
             href: lectures/11_primary_production.qmd
           - text: "Zooplankton Ecology and Taxonomy"
             href: lectures/12_zooplankton_taxonomy.qmd
+          - text: "Zooplankton Behavior, Reproduction, and Life Cycle"
+            href: lectures/13_zooplankton_behavior_reproduction_life_cycle.qmd
 
 
 
